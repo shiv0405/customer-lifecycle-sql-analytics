@@ -27,6 +27,6 @@
   <text x="948" y="322" fill="#1d4ed8" font-size="15" font-family="Segoe UI, Arial, sans-serif">Latest revenue bridge</text>
 
   <rect x="56" y="384" width="1168" height="316" rx="28" fill="#ffffff" stroke="#dbeafe" stroke-width="2"/>
-  <text x="84" y="438" fill="#0f172a" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Current outcome</text>
-  <text x="84" y="482" fill="#64748b" font-size="20" font-family="Segoe UI, Arial, sans-serif">The enterprise segment carries the largest renewal exposure at $22.2M, and the weakest</text><text x="84" y="512" fill="#64748b" font-size="20" font-family="Segoe UI, Arial, sans-serif">highlighted cohort is 2024-07 at 75.0% retention by month 12.</text>
+  <text x="84" y="438" fill="#0f172a" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Warehouse snapshot</text>
+  <text x="84" y="482" text-anchor="start" fill="#64748b" font-size="20" font-family="Segoe UI, Arial, sans-serif">The enterprise segment carries the largest renewal exposure at $22.2M, and the weakest</text><text x="84" y="512" text-anchor="start" fill="#64748b" font-size="20" font-family="Segoe UI, Arial, sans-serif">highlighted cohort is 2024-07 at 75.0% retention by month 12.</text>
 </svg>

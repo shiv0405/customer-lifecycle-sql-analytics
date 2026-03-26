@@ -3,30 +3,26 @@
   <rect x="40" y="36" width="1200" height="120" rx="28" fill="#ffffff" stroke="#dbeafe" stroke-width="2"/>
   <text x="74" y="92" fill="#0f172a" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Weakest Highlighted Cohorts</text>
   <text x="74" y="128" fill="#64748b" font-size="19" font-family="Segoe UI, Arial, sans-serif">Twelve-month retention outcomes from the current warehouse snapshot</text>
+  <line x1="86" y1="550" x2="1130" y2="550" stroke="#dbeafe" stroke-width="2"/>
   
-  <text x="120" y="214" fill="#0f172a" font-size="18" font-family="Segoe UI, Arial, sans-serif">2024-07</text>
-  <rect x="440" y="192" width="620" height="28" rx="14" fill="#f3f8ff" stroke="#dbeafe" stroke-width="1"/>
-  <rect x="440" y="192" width="465.0" height="28" rx="14" fill="#0ea5e9"/>
-  <text x="1078" y="214" fill="#1d4ed8" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">75.0%</text>
+  <rect x="110" y="280.0" width="96" height="270.0" rx="18" fill="#0ea5e9"/>
+  <text x="158.0" y="266.0" text-anchor="middle" fill="#1d4ed8" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">75.0%</text>
+  <text x="158.0" y="590" text-anchor="middle" fill="#0f172a" font-size="16" font-family="Segoe UI, Arial, sans-serif">2024-07</text>
 
-  <text x="120" y="286" fill="#0f172a" font-size="18" font-family="Segoe UI, Arial, sans-serif">2024-12</text>
-  <rect x="440" y="264" width="620" height="28" rx="14" fill="#f3f8ff" stroke="#dbeafe" stroke-width="1"/>
-  <rect x="440" y="264" width="487.1" height="28" rx="14" fill="#0ea5e9"/>
-  <text x="1078" y="286" fill="#1d4ed8" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">78.6%</text>
+  <rect x="274" y="267.1" width="96" height="282.9" rx="18" fill="#0ea5e9"/>
+  <text x="322.0" y="253.1" text-anchor="middle" fill="#1d4ed8" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">78.6%</text>
+  <text x="322.0" y="590" text-anchor="middle" fill="#0f172a" font-size="16" font-family="Segoe UI, Arial, sans-serif">2024-12</text>
 
-  <text x="120" y="358" fill="#0f172a" font-size="18" font-family="Segoe UI, Arial, sans-serif">2024-03</text>
-  <rect x="440" y="336" width="620" height="28" rx="14" fill="#f3f8ff" stroke="#dbeafe" stroke-width="1"/>
-  <rect x="440" y="336" width="496.0" height="28" rx="14" fill="#0ea5e9"/>
-  <text x="1078" y="358" fill="#1d4ed8" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">80.0%</text>
+  <rect x="438" y="262.0" width="96" height="288.0" rx="18" fill="#0ea5e9"/>
+  <text x="486.0" y="248.0" text-anchor="middle" fill="#1d4ed8" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">80.0%</text>
+  <text x="486.0" y="590" text-anchor="middle" fill="#0f172a" font-size="16" font-family="Segoe UI, Arial, sans-serif">2024-03</text>
 
-  <text x="120" y="430" fill="#0f172a" font-size="18" font-family="Segoe UI, Arial, sans-serif">2024-10</text>
-  <rect x="440" y="408" width="620" height="28" rx="14" fill="#f3f8ff" stroke="#dbeafe" stroke-width="1"/>
-  <rect x="440" y="408" width="516.6" height="28" rx="14" fill="#0ea5e9"/>
-  <text x="1078" y="430" fill="#1d4ed8" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">83.3%</text>
+  <rect x="602" y="250.0" width="96" height="300.0" rx="18" fill="#0ea5e9"/>
+  <text x="650.0" y="236.0" text-anchor="middle" fill="#1d4ed8" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">83.3%</text>
+  <text x="650.0" y="590" text-anchor="middle" fill="#0f172a" font-size="16" font-family="Segoe UI, Arial, sans-serif">2024-10</text>
 
-  <text x="120" y="502" fill="#0f172a" font-size="18" font-family="Segoe UI, Arial, sans-serif">2024-02</text>
-  <rect x="440" y="480" width="620" height="28" rx="14" fill="#f3f8ff" stroke="#dbeafe" stroke-width="1"/>
-  <rect x="440" y="480" width="537.4" height="28" rx="14" fill="#0ea5e9"/>
-  <text x="1078" y="502" fill="#1d4ed8" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">86.7%</text>
+  <rect x="766" y="238.0" width="96" height="312.0" rx="18" fill="#0ea5e9"/>
+  <text x="814.0" y="224.0" text-anchor="middle" fill="#1d4ed8" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">86.7%</text>
+  <text x="814.0" y="590" text-anchor="middle" fill="#0f172a" font-size="16" font-family="Segoe UI, Arial, sans-serif">2024-02</text>
 
 </svg>

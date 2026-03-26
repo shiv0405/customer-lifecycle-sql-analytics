@@ -2,20 +2,20 @@
 
 SQL-first analytics project designed to show how customer, revenue, retention, and marketing data can be structured into a reproducible warehouse workflow for business analysis and decision support.
 
-## Overview
+## Analytical Scope
 
 - Uses SQL as the core modeling layer for cohort retention, revenue bridge analysis, regional scorecards, channel efficiency, and account risk scoring.
 - Generates realistic multi-region subscription data and loads it into a local SQLite warehouse so the project is runnable without external infrastructure.
 - Produces analyst-ready outputs including curated CSVs, a metrics glossary, SQL query pack, written findings, and an HTML executive summary.
 - Emphasizes business reasoning, metric definitions, and explainable analysis instead of only showing code structure.
 
-## Visual Outputs
+## Warehouse Preview
 
 ![Customer lifecycle analytics overview](docs/images/overview.svg)
 
 ![Customer lifecycle analytics highlights](docs/images/highlights.svg)
 
-## Business Scenario
+## Operating Context
 
 This project models a subscription business that needs a repeatable way to answer four recurring questions:
 
@@ -26,7 +26,7 @@ This project models a subscription business that needs a repeatable way to answe
 
 The workflow is structured the way an internal analytics or BI team would deliver it: raw operational data is standardized into reusable marts, then summarized into outputs that commercial, finance, and customer teams can review.
 
-## What This Project Demonstrates
+## Analytical Focus
 
 - Dimensional thinking across customer, month, region, segment, and acquisition channel
 - Metric design for retention, net revenue movement, utilization, support pressure, and channel performance
@@ -34,7 +34,7 @@ The workflow is structured the way an internal analytics or BI team would delive
 - Translating warehouse outputs into concise business findings and recommendations
 - Building a reproducible local analytics workflow that can be extended to PostgreSQL, BigQuery, Snowflake, or dbt-style environments
 
-## Analytical Workflow
+## Warehouse Flow
 
 1. Generate consistent source extracts for accounts, monthly product usage, invoices, and marketing spend.
 2. Load the sources into a local warehouse.
@@ -42,7 +42,7 @@ The workflow is structured the way an internal analytics or BI team would delive
 4. Derive reusable marts for retention, revenue movement, segment performance, renewal planning, channel efficiency, and account prioritization.
 5. Export the marts into CSV, JSON, Markdown, and HTML deliverables that are ready for analysis or dashboarding.
 
-## Project Layout
+## Repository Map
 
 - `src/customer_lifecycle_sql_analytics/` contains the data generator, warehouse runner, and CLI
 - `sql/` contains staging views, marts, and business question query packs
@@ -62,7 +62,7 @@ python -m pip install -e .
 python -m customer_lifecycle_sql_analytics.cli run-all --accounts 420 --months 24
 ```
 
-## Main Outputs
+## Reporting Outputs
 
 After `run-all`, the project writes:
 
@@ -78,7 +78,7 @@ After `run-all`, the project writes:
 - `artifacts/analysis_findings.md`
 - `artifacts/executive_summary.html`
 
-## Core SQL Models
+## Warehouse Models
 
 - `vw_account_monthly_health`
   Unified customer-month view with ARR, seats, utilization, support, satisfaction, and renewal timing
@@ -97,7 +97,7 @@ After `run-all`, the project writes:
 - `mart_at_risk_accounts`
   Prioritized account list based on declining usage, ticket pressure, satisfaction, and renewal proximity
 
-## Business Questions It Answers
+## Questions Answered
 
 - Which signup cohorts are retaining best over time, and where does retention degrade earliest?
 - Which regions are carrying the highest renewal exposure and weakest product engagement?
@@ -107,7 +107,7 @@ After `run-all`, the project writes:
 - Which accounts should commercial or customer teams review first based on risk indicators?
 - Which renewal buckets are the most exposed, and how much of that book already shows intervention signals?
 
-## SQL Techniques Used
+## SQL Patterns
 
 - layered CTEs for readable model construction
 - cohort calculations based on signup month offsets
@@ -116,7 +116,7 @@ After `run-all`, the project writes:
 - reusable marts that can be published directly into reporting tools
 - SQL question packs and quality checks to support analyst workflows
 
-## How To Read The Warehouse
+## Suggested Review Order
 
 Start with:
 
@@ -133,7 +133,7 @@ Then use:
 - `sql/020_quality_checks.sql` to validate the warehouse outputs
 - `sql/030_business_questions.sql` to inspect the warehouse directly
 
-## Production Path
+## Deployment Path
 
 - Replace synthetic inputs with CRM, billing, product usage, and marketing platform extracts
 - Move the warehouse to PostgreSQL or a cloud analytical database
