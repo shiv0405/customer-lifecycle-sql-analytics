@@ -1,0 +1,721 @@
+spend_month,region,channel,spend_usd,leads_generated,sql_generated
+2024-01,North America,paid-search,61678.1,439,150
+2024-01,North America,content,28584.3,110,33
+2024-01,North America,partner,56205.48,246,50
+2024-01,North America,events,84973.14,459,126
+2024-01,North America,outbound,58826.79,326,100
+2024-01,Europe,paid-search,52697.94,228,51
+2024-01,Europe,content,68285.0,333,106
+2024-01,Europe,partner,60719.71,245,68
+2024-01,Europe,events,33781.21,277,88
+2024-01,Europe,outbound,26805.11,210,66
+2024-01,APAC,paid-search,27191.64,123,24
+2024-01,APAC,content,14041.18,58,22
+2024-01,APAC,partner,18577.99,142,42
+2024-01,APAC,events,24017.31,143,54
+2024-01,APAC,outbound,23041.53,146,27
+2024-01,LATAM,paid-search,42756.72,173,64
+2024-01,LATAM,content,41808.01,184,55
+2024-01,LATAM,partner,52300.05,365,66
+2024-01,LATAM,events,32130.81,178,48
+2024-01,LATAM,outbound,20798.99,110,41
+2024-01,Middle East,paid-search,17452.05,134,25
+2024-01,Middle East,content,38222.02,155,49
+2024-01,Middle East,partner,47345.55,368,116
+2024-01,Middle East,events,51727.82,251,84
+2024-01,Middle East,outbound,28464.52,186,42
+2024-01,Africa,paid-search,53980.8,222,44
+2024-01,Africa,content,40070.79,156,46
+2024-01,Africa,partner,20757.47,120,34
+2024-01,Africa,events,50608.54,197,40
+2024-01,Africa,outbound,38066.61,239,92
+2024-02,North America,paid-search,70798.56,287,101
+2024-02,North America,content,84841.16,512,143
+2024-02,North America,partner,23742.32,106,35
+2024-02,North America,events,30071.96,158,29
+2024-02,North America,outbound,55643.75,321,95
+2024-02,Europe,paid-search,74803.4,447,135
+2024-02,Europe,content,48493.01,206,77
+2024-02,Europe,partner,47233.86,229,57
+2024-02,Europe,events,38466.08,303,98
+2024-02,Europe,outbound,77809.66,497,158
+2024-02,APAC,paid-search,53001.87,307,82
+2024-02,APAC,content,42505.93,169,30
+2024-02,APAC,partner,54143.05,309,112
+2024-02,APAC,events,44860.53,179,57
+2024-02,APAC,outbound,26478.88,117,39
+2024-02,LATAM,paid-search,28177.43,149,52
+2024-02,LATAM,content,26585.85,154,31
+2024-02,LATAM,partner,15054.7,97,31
+2024-02,LATAM,events,26888.45,202,45
+2024-02,LATAM,outbound,54257.39,428,127
+2024-02,Middle East,paid-search,45896.71,230,75
+2024-02,Middle East,content,55218.0,430,94
+2024-02,Middle East,partner,40866.0,221,83
+2024-02,Middle East,events,52987.64,333,104
+2024-02,Middle East,outbound,18627.63,76,19
+2024-02,Africa,paid-search,16455.65,80,17
+2024-02,Africa,content,48011.03,265,105
+2024-02,Africa,partner,44826.6,194,52
+2024-02,Africa,events,46028.78,180,69
+2024-02,Africa,outbound,41697.96,263,53
+2024-03,North America,paid-search,76179.18,614,257
+2024-03,North America,content,71627.56,379,152
+2024-03,North America,partner,27408.06,107,20
+2024-03,North America,events,61451.68,463,122
+2024-03,North America,outbound,38769.31,238,81
+2024-03,Europe,paid-search,65635.98,265,75
+2024-03,Europe,content,101854.48,414,172
+2024-03,Europe,partner,89073.03,656,142
+2024-03,Europe,events,98400.75,558,102
+2024-03,Europe,outbound,28931.98,148,39
+2024-03,APAC,paid-search,44042.58,236,81
+2024-03,APAC,content,37165.05,143,58
+2024-03,APAC,partner,26303.8,201,36
+2024-03,APAC,events,60721.46,350,139
+2024-03,APAC,outbound,42001.09,244,48
+2024-03,LATAM,paid-search,49012.7,322,116
+2024-03,LATAM,content,36847.25,197,44
+2024-03,LATAM,partner,24666.97,144,43
+2024-03,LATAM,events,65421.88,276,86
+2024-03,LATAM,outbound,27965.67,136,29
+2024-03,Middle East,paid-search,55942.43,357,105
+2024-03,Middle East,content,30115.1,137,49
+2024-03,Middle East,partner,17929.33,78,26
+2024-03,Middle East,events,57671.02,379,73
+2024-03,Middle East,outbound,39074.55,272,70
+2024-03,Africa,paid-search,21756.79,110,35
+2024-03,Africa,content,60623.42,481,89
+2024-03,Africa,partner,16818.18,80,18
+2024-03,Africa,events,37787.9,192,59
+2024-03,Africa,outbound,40517.6,217,40
+2024-04,North America,paid-search,85755.76,475,139
+2024-04,North America,content,68817.12,459,187
+2024-04,North America,partner,40150.46,207,66
+2024-04,North America,events,54012.83,361,113
+2024-04,North America,outbound,41672.07,296,75
+2024-04,Europe,paid-search,74348.1,306,75
+2024-04,Europe,content,65047.62,363,120
+2024-04,Europe,partner,49157.93,245,57
+2024-04,Europe,events,65151.21,262,109
+2024-04,Europe,outbound,31101.46,164,62
+2024-04,APAC,paid-search,39661.27,154,55
+2024-04,APAC,content,26574.7,164,54
+2024-04,APAC,partner,37662.82,254,104
+2024-04,APAC,events,42006.06,185,47
+2024-04,APAC,outbound,33768.15,130,29
+2024-04,LATAM,paid-search,44059.11,202,63
+2024-04,LATAM,content,18690.91,154,63
+2024-04,LATAM,partner,37575.1,145,31
+2024-04,LATAM,events,19966.18,101,24
+2024-04,LATAM,outbound,42390.97,296,99
+2024-04,Middle East,paid-search,30322.07,187,35
+2024-04,Middle East,content,44665.7,285,53
+2024-04,Middle East,partner,29780.65,196,59
+2024-04,Middle East,events,14221.37,109,32
+2024-04,Middle East,outbound,30898.81,250,73
+2024-04,Africa,paid-search,14175.38,109,39
+2024-04,Africa,content,31468.58,140,42
+2024-04,Africa,partner,28704.12,162,63
+2024-04,Africa,events,21283.04,112,33
+2024-04,Africa,outbound,24921.12,163,56
+2024-05,North America,paid-search,65413.24,356,102
+2024-05,North America,content,82031.84,389,71
+2024-05,North America,partner,58823.44,370,85
+2024-05,North America,events,84431.93,324,121
+2024-05,North America,outbound,56810.08,340,110
+2024-05,Europe,paid-search,63125.83,511,120
+2024-05,Europe,content,63965.21,420,129
+2024-05,Europe,partner,47729.94,253,91
+2024-05,Europe,events,80931.12,398,147
+2024-05,Europe,outbound,48909.27,236,58
+2024-05,APAC,paid-search,52019.05,372,155
+2024-05,APAC,content,40117.85,167,57
+2024-05,APAC,partner,37979.26,205,48
+2024-05,APAC,events,35527.87,262,51
+2024-05,APAC,outbound,19920.67,78,16
+2024-05,LATAM,paid-search,36744.58,260,49
+2024-05,LATAM,content,37675.48,180,37
+2024-05,LATAM,partner,46989.72,305,116
+2024-05,LATAM,events,55673.64,382,133
+2024-05,LATAM,outbound,23881.19,124,51
+2024-05,Middle East,paid-search,17045.12,95,20
+2024-05,Middle East,content,53709.12,312,128
+2024-05,Middle East,partner,41899.9,263,59
+2024-05,Middle East,events,28610.57,110,20
+2024-05,Middle East,outbound,45520.05,226,84
+2024-05,Africa,paid-search,50052.46,218,48
+2024-05,Africa,content,25432.73,110,32
+2024-05,Africa,partner,39369.82,163,43
+2024-05,Africa,events,15410.99,80,32
+2024-05,Africa,outbound,28831.15,116,22
+2024-06,North America,paid-search,54746.92,361,72
+2024-06,North America,content,41006.61,174,37
+2024-06,North America,partner,85945.77,627,205
+2024-06,North America,events,30299.05,160,42
+2024-06,North America,outbound,94455.83,758,273
+2024-06,Europe,paid-search,56035.54,320,66
+2024-06,Europe,content,64518.6,400,81
+2024-06,Europe,partner,28409.9,215,42
+2024-06,Europe,events,60651.54,305,62
+2024-06,Europe,outbound,96757.61,402,102
+2024-06,APAC,paid-search,56335.51,356,87
+2024-06,APAC,content,53695.23,437,109
+2024-06,APAC,partner,46126.55,194,38
+2024-06,APAC,events,65380.3,475,86
+2024-06,APAC,outbound,43902.61,228,48
+2024-06,LATAM,paid-search,20011.74,103,35
+2024-06,LATAM,content,28220.57,203,42
+2024-06,LATAM,partner,37404.03,253,94
+2024-06,LATAM,events,17565.87,77,29
+2024-06,LATAM,outbound,47018.91,209,75
+2024-06,Middle East,paid-search,34922.28,199,52
+2024-06,Middle East,content,55555.14,338,65
+2024-06,Middle East,partner,43513.85,189,63
+2024-06,Middle East,events,65033.14,520,206
+2024-06,Middle East,outbound,31280.25,209,46
+2024-06,Africa,paid-search,17202.3,84,19
+2024-06,Africa,content,65682.2,436,173
+2024-06,Africa,partner,20726.39,159,65
+2024-06,Africa,events,40510.17,255,55
+2024-06,Africa,outbound,57645.72,382,152
+2024-07,North America,paid-search,80467.55,358,144
+2024-07,North America,content,76660.81,356,85
+2024-07,North America,partner,71683.64,489,204
+2024-07,North America,events,73646.37,334,63
+2024-07,North America,outbound,81892.92,557,107
+2024-07,Europe,paid-search,84354.88,475,108
+2024-07,Europe,content,44696.5,228,82
+2024-07,Europe,partner,45425.78,244,51
+2024-07,Europe,events,24155.58,142,40
+2024-07,Europe,outbound,40548.11,333,111
+2024-07,APAC,paid-search,51397.64,242,51
+2024-07,APAC,content,28239.12,212,57
+2024-07,APAC,partner,52333.94,227,75
+2024-07,APAC,events,26163.17,133,25
+2024-07,APAC,outbound,25337.48,117,38
+2024-07,LATAM,paid-search,52874.06,286,101
+2024-07,LATAM,content,43977.62,252,78
+2024-07,LATAM,partner,46989.71,228,45
+2024-07,LATAM,events,27410.67,183,52
+2024-07,LATAM,outbound,33339.23,171,71
+2024-07,Middle East,paid-search,22513.64,169,65
+2024-07,Middle East,content,46245.17,194,69
+2024-07,Middle East,partner,30065.13,121,32
+2024-07,Middle East,events,20351.69,93,23
+2024-07,Middle East,outbound,31339.81,140,29
+2024-07,Africa,paid-search,30976.86,178,36
+2024-07,Africa,content,46013.93,198,54
+2024-07,Africa,partner,51960.58,423,128
+2024-07,Africa,events,16154.09,115,42
+2024-07,Africa,outbound,37300.48,161,50
+2024-08,North America,paid-search,25520.63,101,22
+2024-08,North America,content,47609.7,333,111
+2024-08,North America,partner,23370.85,118,21
+2024-08,North America,events,65088.88,393,122
+2024-08,North America,outbound,56195.07,222,84
+2024-08,Europe,paid-search,28714.44,126,25
+2024-08,Europe,content,72577.64,365,135
+2024-08,Europe,partner,71058.95,277,108
+2024-08,Europe,events,47415.14,227,42
+2024-08,Europe,outbound,46976.8,315,62
+2024-08,APAC,paid-search,24752.7,146,54
+2024-08,APAC,content,16077.79,63,18
+2024-08,APAC,partner,55774.67,430,168
+2024-08,APAC,events,47296.3,390,72
+2024-08,APAC,outbound,18905.26,101,40
+2024-08,LATAM,paid-search,42715.35,235,58
+2024-08,LATAM,content,53281.73,273,112
+2024-08,LATAM,partner,38812.75,255,93
+2024-08,LATAM,events,22959.54,181,60
+2024-08,LATAM,outbound,49319.03,216,73
+2024-08,Middle East,paid-search,24720.64,143,52
+2024-08,Middle East,content,34207.2,157,38
+2024-08,Middle East,partner,51791.3,212,86
+2024-08,Middle East,events,43432.56,260,80
+2024-08,Middle East,outbound,53859.65,266,89
+2024-08,Africa,paid-search,55785.63,456,183
+2024-08,Africa,content,39983.72,266,51
+2024-08,Africa,partner,43117.94,345,101
+2024-08,Africa,events,25094.37,127,35
+2024-08,Africa,outbound,21867.01,119,40
+2024-09,North America,paid-search,92901.12,487,166
+2024-09,North America,content,84184.76,331,96
+2024-09,North America,partner,44198.74,329,65
+2024-09,North America,events,44021.04,289,62
+2024-09,North America,outbound,39975.79,325,64
+2024-09,Europe,paid-search,73642.82,325,110
+2024-09,Europe,content,57812.25,372,103
+2024-09,Europe,partner,31363.51,235,66
+2024-09,Europe,events,33215.75,269,79
+2024-09,Europe,outbound,73949.12,293,94
+2024-09,APAC,paid-search,24830.29,180,71
+2024-09,APAC,content,41112.33,208,43
+2024-09,APAC,partner,39091.89,223,81
+2024-09,APAC,events,25978.3,162,61
+2024-09,APAC,outbound,48081.81,323,64
+2024-09,LATAM,paid-search,63171.54,450,152
+2024-09,LATAM,content,37691.17,183,73
+2024-09,LATAM,partner,19069.62,78,21
+2024-09,LATAM,events,19420.56,111,36
+2024-09,LATAM,outbound,61663.46,300,94
+2024-09,Middle East,paid-search,40438.68,321,130
+2024-09,Middle East,content,31385.22,214,58
+2024-09,Middle East,partner,49165.54,306,75
+2024-09,Middle East,events,35443.62,139,28
+2024-09,Middle East,outbound,23726.73,95,31
+2024-09,Africa,paid-search,56375.05,282,109
+2024-09,Africa,content,31948.31,132,37
+2024-09,Africa,partner,45886.98,258,68
+2024-09,Africa,events,46543.98,274,73
+2024-09,Africa,outbound,58331.95,283,92
+2024-10,North America,paid-search,31004.27,215,69
+2024-10,North America,content,59038.9,310,77
+2024-10,North America,partner,35109.48,227,60
+2024-10,North America,events,54722.23,336,110
+2024-10,North America,outbound,80387.86,373,116
+2024-10,Europe,paid-search,56621.22,245,46
+2024-10,Europe,content,30461.04,208,42
+2024-10,Europe,partner,28170.09,152,47
+2024-10,Europe,events,38224.9,311,88
+2024-10,Europe,outbound,66544.89,262,60
+2024-10,APAC,paid-search,15358.83,122,42
+2024-10,APAC,content,51655.49,271,49
+2024-10,APAC,partner,41952.16,225,84
+2024-10,APAC,events,20987.56,111,36
+2024-10,APAC,outbound,52448.78,247,66
+2024-10,LATAM,paid-search,21038.33,101,39
+2024-10,LATAM,content,15209.35,112,30
+2024-10,LATAM,partner,50658.49,254,80
+2024-10,LATAM,events,19101.32,76,18
+2024-10,LATAM,outbound,15215.98,61,19
+2024-10,Middle East,paid-search,45753.25,267,69
+2024-10,Middle East,content,48676.59,237,58
+2024-10,Middle East,partner,19072.51,91,21
+2024-10,Middle East,events,27977.72,201,47
+2024-10,Middle East,outbound,17716.59,121,23
+2024-10,Africa,paid-search,25614.22,109,40
+2024-10,Africa,content,32651.47,152,57
+2024-10,Africa,partner,43231.11,269,81
+2024-10,Africa,events,42258.69,208,84
+2024-10,Africa,outbound,35977.02,200,68
+2024-11,North America,paid-search,42908.99,257,55
+2024-11,North America,content,32704.33,215,54
+2024-11,North America,partner,36052.34,245,90
+2024-11,North America,events,46371.57,306,103
+2024-11,North America,outbound,26653.17,139,28
+2024-11,Europe,paid-search,36716.64,232,67
+2024-11,Europe,content,47703.71,209,59
+2024-11,Europe,partner,50343.99,261,95
+2024-11,Europe,events,41118.85,163,33
+2024-11,Europe,outbound,60137.67,464,103
+2024-11,APAC,paid-search,42066.28,181,40
+2024-11,APAC,content,39578.15,215,86
+2024-11,APAC,partner,43501.6,286,118
+2024-11,APAC,events,42788.17,351,81
+2024-11,APAC,outbound,14906.72,84,34
+2024-11,LATAM,paid-search,37727.28,280,52
+2024-11,LATAM,content,19711.45,78,30
+2024-11,LATAM,partner,51334.26,299,125
+2024-11,LATAM,events,43292.98,183,61
+2024-11,LATAM,outbound,43246.16,316,100
+2024-11,Middle East,paid-search,38680.64,311,99
+2024-11,Middle East,content,15555.36,72,13
+2024-11,Middle East,partner,53660.59,334,88
+2024-11,Middle East,events,28906.75,220,48
+2024-11,Middle East,outbound,32486.81,191,54
+2024-11,Africa,paid-search,21116.25,108,29
+2024-11,Africa,content,37784.95,185,72
+2024-11,Africa,partner,16366.25,67,16
+2024-11,Africa,events,17083.54,82,20
+2024-11,Africa,outbound,38830.81,217,73
+2024-12,North America,paid-search,59378.89,395,98
+2024-12,North America,content,71310.55,280,82
+2024-12,North America,partner,66324.84,284,102
+2024-12,North America,events,100555.84,442,90
+2024-12,North America,outbound,77493.81,379,133
+2024-12,Europe,paid-search,30851.92,141,30
+2024-12,Europe,content,53422.59,263,101
+2024-12,Europe,partner,71068.22,419,111
+2024-12,Europe,events,91827.33,482,117
+2024-12,Europe,outbound,33575.7,175,44
+2024-12,APAC,paid-search,45194.72,327,113
+2024-12,APAC,content,58405.05,263,64
+2024-12,APAC,partner,31935.09,186,51
+2024-12,APAC,events,63558.36,255,94
+2024-12,APAC,outbound,55534.09,416,97
+2024-12,LATAM,paid-search,45923.58,201,57
+2024-12,LATAM,content,22340.82,161,50
+2024-12,LATAM,partner,60578.77,440,172
+2024-12,LATAM,events,26079.63,107,28
+2024-12,LATAM,outbound,30225.11,181,59
+2024-12,Middle East,paid-search,55398.42,366,106
+2024-12,Middle East,content,60147.2,306,104
+2024-12,Middle East,partner,28287.1,125,50
+2024-12,Middle East,events,30673.97,251,95
+2024-12,Middle East,outbound,62087.39,279,115
+2024-12,Africa,paid-search,58941.53,309,93
+2024-12,Africa,content,51179.94,388,142
+2024-12,Africa,partner,40327.23,194,51
+2024-12,Africa,events,54610.06,316,71
+2024-12,Africa,outbound,18704.12,81,31
+2025-01,North America,paid-search,45998.57,342,99
+2025-01,North America,content,67543.27,429,131
+2025-01,North America,partner,52905.34,206,49
+2025-01,North America,events,66366.58,399,122
+2025-01,North America,outbound,80035.27,510,193
+2025-01,Europe,paid-search,29313.44,181,48
+2025-01,Europe,content,84145.62,379,125
+2025-01,Europe,partner,85424.58,398,121
+2025-01,Europe,events,55032.29,277,67
+2025-01,Europe,outbound,68386.86,437,180
+2025-01,APAC,paid-search,44787.22,240,56
+2025-01,APAC,content,21007.84,167,58
+2025-01,APAC,partner,42989.31,196,55
+2025-01,APAC,events,37518.16,146,37
+2025-01,APAC,outbound,31301.3,160,46
+2025-01,LATAM,paid-search,17652.76,100,41
+2025-01,LATAM,content,37842.51,288,54
+2025-01,LATAM,partner,41707.2,254,87
+2025-01,LATAM,events,15165.73,65,21
+2025-01,LATAM,outbound,23942.62,94,35
+2025-01,Middle East,paid-search,27330.9,134,37
+2025-01,Middle East,content,34196.29,194,49
+2025-01,Middle East,partner,56063.23,323,94
+2025-01,Middle East,events,38477.81,214,76
+2025-01,Middle East,outbound,55555.57,307,106
+2025-01,Africa,paid-search,30315.06,198,81
+2025-01,Africa,content,15601.09,83,25
+2025-01,Africa,partner,53744.19,225,90
+2025-01,Africa,events,32763.67,220,57
+2025-01,Africa,outbound,44882.9,268,100
+2025-02,North America,paid-search,43813.35,177,57
+2025-02,North America,content,31527.01,140,40
+2025-02,North America,partner,73018.83,374,97
+2025-02,North America,events,29785.98,139,26
+2025-02,North America,outbound,82996.91,477,122
+2025-02,Europe,paid-search,67936.49,565,174
+2025-02,Europe,content,53402.38,251,57
+2025-02,Europe,partner,83103.96,437,161
+2025-02,Europe,events,63562.63,281,95
+2025-02,Europe,outbound,52669.79,290,106
+2025-02,APAC,paid-search,25190.03,110,33
+2025-02,APAC,content,49827.89,215,71
+2025-02,APAC,partner,19506.91,78,21
+2025-02,APAC,events,44296.41,178,71
+2025-02,APAC,outbound,20423.27,106,39
+2025-02,LATAM,paid-search,46727.47,305,107
+2025-02,LATAM,content,31526.76,138,51
+2025-02,LATAM,partner,52415.51,302,57
+2025-02,LATAM,events,50234.6,314,82
+2025-02,LATAM,outbound,43825.82,331,82
+2025-02,Middle East,paid-search,43926.51,305,55
+2025-02,Middle East,content,25048.66,156,40
+2025-02,Middle East,partner,44427.23,246,58
+2025-02,Middle East,events,36441.09,163,60
+2025-02,Middle East,outbound,29710.21,129,31
+2025-02,Africa,paid-search,39422.12,174,68
+2025-02,Africa,content,39317.67,292,97
+2025-02,Africa,partner,39517.62,201,57
+2025-02,Africa,events,32382.61,136,40
+2025-02,Africa,outbound,55971.36,235,65
+2025-03,North America,paid-search,86906.21,424,95
+2025-03,North America,content,84831.5,356,64
+2025-03,North America,partner,91456.01,424,123
+2025-03,North America,events,69081.1,270,97
+2025-03,North America,outbound,61432.85,323,96
+2025-03,Europe,paid-search,28225.97,168,31
+2025-03,Europe,content,47694.75,214,53
+2025-03,Europe,partner,31313.82,154,29
+2025-03,Europe,events,32502.32,129,51
+2025-03,Europe,outbound,91075.98,423,92
+2025-03,APAC,paid-search,16871.91,74,20
+2025-03,APAC,content,27851.59,217,64
+2025-03,APAC,partner,61181.02,265,57
+2025-03,APAC,events,37752.25,152,54
+2025-03,APAC,outbound,59002.7,260,55
+2025-03,LATAM,paid-search,19241.24,83,14
+2025-03,LATAM,content,24132.59,94,27
+2025-03,LATAM,partner,65835.5,334,108
+2025-03,LATAM,events,53136.52,402,157
+2025-03,LATAM,outbound,25610.51,211,78
+2025-03,Middle East,paid-search,33468.94,164,61
+2025-03,Middle East,content,46178.41,185,36
+2025-03,Middle East,partner,37531.65,180,53
+2025-03,Middle East,events,53576.01,252,64
+2025-03,Middle East,outbound,44931.22,252,55
+2025-03,Africa,paid-search,59537.25,286,65
+2025-03,Africa,content,48152.21,223,84
+2025-03,Africa,partner,62827.12,396,136
+2025-03,Africa,events,64743.9,477,186
+2025-03,Africa,outbound,35967.38,139,55
+2025-04,North America,paid-search,71721.49,517,215
+2025-04,North America,content,47886.96,260,101
+2025-04,North America,partner,57930.4,243,44
+2025-04,North America,events,61288.41,243,80
+2025-04,North America,outbound,78552.39,347,111
+2025-04,Europe,paid-search,24156.17,123,36
+2025-04,Europe,content,51159.51,344,138
+2025-04,Europe,partner,47247.75,290,94
+2025-04,Europe,events,24437.88,168,30
+2025-04,Europe,outbound,35142.9,269,48
+2025-04,APAC,paid-search,33560.55,148,35
+2025-04,APAC,content,20975.18,132,44
+2025-04,APAC,partner,32626.3,154,61
+2025-04,APAC,events,24177.29,166,46
+2025-04,APAC,outbound,16816.39,65,26
+2025-04,LATAM,paid-search,20374.84,88,16
+2025-04,LATAM,content,17970.53,76,28
+2025-04,LATAM,partner,36744.88,273,95
+2025-04,LATAM,events,35920.98,175,49
+2025-04,LATAM,outbound,16300.88,93,37
+2025-04,Middle East,paid-search,31273.09,136,39
+2025-04,Middle East,content,35867.72,146,59
+2025-04,Middle East,partner,52258.36,262,89
+2025-04,Middle East,events,42503.78,306,62
+2025-04,Middle East,outbound,51714.55,278,97
+2025-04,Africa,paid-search,48568.74,209,40
+2025-04,Africa,content,21398.09,143,34
+2025-04,Africa,partner,17626.01,104,28
+2025-04,Africa,events,55846.9,214,67
+2025-04,Africa,outbound,16104.44,62,14
+2025-05,North America,paid-search,78543.18,310,55
+2025-05,North America,content,40625.01,245,88
+2025-05,North America,partner,31086.8,186,77
+2025-05,North America,events,58013.34,280,104
+2025-05,North America,outbound,31688.1,143,53
+2025-05,Europe,paid-search,46473.23,257,89
+2025-05,Europe,content,60661.12,476,117
+2025-05,Europe,partner,85006.87,405,105
+2025-05,Europe,events,53975.3,268,106
+2025-05,Europe,outbound,36982.82,225,60
+2025-05,APAC,paid-search,27320.58,145,46
+2025-05,APAC,content,24936.76,156,56
+2025-05,APAC,partner,27931.25,147,35
+2025-05,APAC,events,34749.12,264,70
+2025-05,APAC,outbound,17822.23,143,44
+2025-05,LATAM,paid-search,21645.64,129,50
+2025-05,LATAM,content,22929.43,110,33
+2025-05,LATAM,partner,52782.34,416,149
+2025-05,LATAM,events,36221.08,192,46
+2025-05,LATAM,outbound,43687.44,267,76
+2025-05,Middle East,paid-search,44687.25,269,68
+2025-05,Middle East,content,21020.67,101,28
+2025-05,Middle East,partner,30081.31,135,35
+2025-05,Middle East,events,31770.58,155,29
+2025-05,Middle East,outbound,28522.19,142,45
+2025-05,Africa,paid-search,17227.78,79,21
+2025-05,Africa,content,26655.07,123,33
+2025-05,Africa,partner,36257.14,193,57
+2025-05,Africa,events,31683.43,140,42
+2025-05,Africa,outbound,40562.18,269,51
+2025-06,North America,paid-search,58247.17,270,95
+2025-06,North America,content,64460.84,277,51
+2025-06,North America,partner,54467.91,260,51
+2025-06,North America,events,67206.02,283,84
+2025-06,North America,outbound,99687.99,578,158
+2025-06,Europe,paid-search,78640.01,363,84
+2025-06,Europe,content,76516.93,568,191
+2025-06,Europe,partner,39220.18,185,37
+2025-06,Europe,events,53698.41,318,100
+2025-06,Europe,outbound,26811.16,117,36
+2025-06,APAC,paid-search,65282.8,268,69
+2025-06,APAC,content,26517.92,142,48
+2025-06,APAC,partner,20485.63,91,19
+2025-06,APAC,events,35309.42,167,51
+2025-06,APAC,outbound,42861.81,197,79
+2025-06,LATAM,paid-search,32170.95,125,34
+2025-06,LATAM,content,38798.65,159,35
+2025-06,LATAM,partner,26728.52,107,42
+2025-06,LATAM,events,21943.59,137,51
+2025-06,LATAM,outbound,66190.34,343,118
+2025-06,Middle East,paid-search,43138.21,197,45
+2025-06,Middle East,content,58043.83,367,128
+2025-06,Middle East,partner,31821.29,162,68
+2025-06,Middle East,events,55800.38,306,126
+2025-06,Middle East,outbound,49457.1,211,80
+2025-06,Africa,paid-search,47685.22,289,118
+2025-06,Africa,content,23769.1,100,31
+2025-06,Africa,partner,43350.15,188,49
+2025-06,Africa,events,44485.45,269,60
+2025-06,Africa,outbound,17545.84,138,44
+2025-07,North America,paid-search,56256.44,465,137
+2025-07,North America,content,42481.56,199,51
+2025-07,North America,partner,32487.13,130,44
+2025-07,North America,events,39724.87,187,48
+2025-07,North America,outbound,38983.2,225,59
+2025-07,Europe,paid-search,57986.86,308,92
+2025-07,Europe,content,41429.12,172,50
+2025-07,Europe,partner,78997.31,316,101
+2025-07,Europe,events,46797.31,259,70
+2025-07,Europe,outbound,61931.23,331,75
+2025-07,APAC,paid-search,22368.87,89,16
+2025-07,APAC,content,41850.18,182,61
+2025-07,APAC,partner,40163.78,260,88
+2025-07,APAC,events,33551.1,140,49
+2025-07,APAC,outbound,43981.15,212,64
+2025-07,LATAM,paid-search,30581.41,160,54
+2025-07,LATAM,content,43614.55,298,98
+2025-07,LATAM,partner,49391.51,281,75
+2025-07,LATAM,events,22361.35,90,30
+2025-07,LATAM,outbound,29281.66,165,39
+2025-07,Middle East,paid-search,25380.12,158,45
+2025-07,Middle East,content,49367.13,242,84
+2025-07,Middle East,partner,30950.13,136,32
+2025-07,Middle East,events,50697.6,307,59
+2025-07,Middle East,outbound,34989.58,203,40
+2025-07,Africa,paid-search,46769.02,272,83
+2025-07,Africa,content,18383.92,94,39
+2025-07,Africa,partner,25954.05,117,24
+2025-07,Africa,events,40705.14,219,91
+2025-07,Africa,outbound,45708.85,219,68
+2025-08,North America,paid-search,42291.9,235,60
+2025-08,North America,content,61371.19,357,83
+2025-08,North America,partner,58779.31,295,63
+2025-08,North America,events,68267.67,504,197
+2025-08,North America,outbound,38284.34,245,68
+2025-08,Europe,paid-search,64649.43,393,82
+2025-08,Europe,content,28706.04,151,55
+2025-08,Europe,partner,75472.44,358,147
+2025-08,Europe,events,67981.96,314,93
+2025-08,Europe,outbound,68446.96,267,99
+2025-08,APAC,paid-search,22081.65,128,47
+2025-08,APAC,content,20277.86,128,34
+2025-08,APAC,partner,44259.29,190,45
+2025-08,APAC,events,38041.85,224,82
+2025-08,APAC,outbound,33854.89,173,65
+2025-08,LATAM,paid-search,41695.35,255,67
+2025-08,LATAM,content,50709.98,277,114
+2025-08,LATAM,partner,22115.79,125,36
+2025-08,LATAM,events,31048.46,144,45
+2025-08,LATAM,outbound,19936.27,84,33
+2025-08,Middle East,paid-search,23354.93,98,23
+2025-08,Middle East,content,31126.85,140,33
+2025-08,Middle East,partner,53442.2,218,51
+2025-08,Middle East,events,21565.88,86,31
+2025-08,Middle East,outbound,24192.66,193,46
+2025-08,Africa,paid-search,30577.9,125,47
+2025-08,Africa,content,47954.57,212,83
+2025-08,Africa,partner,53984.82,329,77
+2025-08,Africa,events,44664.06,260,72
+2025-08,Africa,outbound,35312.96,151,55
+2025-09,North America,paid-search,52844.9,374,111
+2025-09,North America,content,54961.11,254,103
+2025-09,North America,partner,86045.69,363,131
+2025-09,North America,events,39126.79,279,111
+2025-09,North America,outbound,28776.82,125,26
+2025-09,Europe,paid-search,41206.75,336,132
+2025-09,Europe,content,95498.28,759,281
+2025-09,Europe,partner,33993.46,214,41
+2025-09,Europe,events,98837.17,413,106
+2025-09,Europe,outbound,62609.23,241,87
+2025-09,APAC,paid-search,58352.79,282,96
+2025-09,APAC,content,53006.75,256,69
+2025-09,APAC,partner,54569.38,243,47
+2025-09,APAC,events,37293.89,195,53
+2025-09,APAC,outbound,48918.92,191,54
+2025-09,LATAM,paid-search,29032.44,193,55
+2025-09,LATAM,content,38184.46,152,54
+2025-09,LATAM,partner,33070.98,210,61
+2025-09,LATAM,events,38304.24,165,66
+2025-09,LATAM,outbound,37244.48,236,50
+2025-09,Middle East,paid-search,27817.48,131,23
+2025-09,Middle East,content,38091.56,223,73
+2025-09,Middle East,partner,33897.5,165,60
+2025-09,Middle East,events,27534.3,146,37
+2025-09,Middle East,outbound,19139.24,103,25
+2025-09,Africa,paid-search,47905.34,201,60
+2025-09,Africa,content,60757.87,434,134
+2025-09,Africa,partner,42031.24,198,60
+2025-09,Africa,events,52814.6,240,91
+2025-09,Africa,outbound,59338.44,485,113
+2025-10,North America,paid-search,31762.58,172,47
+2025-10,North America,content,63071.14,286,99
+2025-10,North America,partner,41104.81,178,33
+2025-10,North America,events,71727.24,291,59
+2025-10,North America,outbound,63348.7,335,80
+2025-10,Europe,paid-search,26758.71,131,24
+2025-10,Europe,content,44348.21,182,35
+2025-10,Europe,partner,32655.63,145,27
+2025-10,Europe,events,76512.67,631,237
+2025-10,Europe,outbound,62112.84,305,78
+2025-10,APAC,paid-search,38626.66,168,53
+2025-10,APAC,content,37113.02,186,45
+2025-10,APAC,partner,28456.25,162,46
+2025-10,APAC,events,43750.2,260,75
+2025-10,APAC,outbound,18915.34,131,42
+2025-10,LATAM,paid-search,54231.68,381,120
+2025-10,LATAM,content,32502.13,172,39
+2025-10,LATAM,partner,36897.53,148,27
+2025-10,LATAM,events,18193.39,82,28
+2025-10,LATAM,outbound,45591.77,232,84
+2025-10,Middle East,paid-search,26656.11,172,64
+2025-10,Middle East,content,44992.45,193,74
+2025-10,Middle East,partner,35411.05,136,44
+2025-10,Middle East,events,47044.99,240,44
+2025-10,Middle East,outbound,50329.92,396,95
+2025-10,Africa,paid-search,28266.08,113,44
+2025-10,Africa,content,39250.42,191,66
+2025-10,Africa,partner,21390.86,125,44
+2025-10,Africa,events,53501.54,344,144
+2025-10,Africa,outbound,38538.94,210,53
+2025-11,North America,paid-search,66096.08,311,100
+2025-11,North America,content,29270.37,114,20
+2025-11,North America,partner,47201.33,230,90
+2025-11,North America,events,29648.38,165,45
+2025-11,North America,outbound,82313.08,643,221
+2025-11,Europe,paid-search,26722.68,138,28
+2025-11,Europe,content,33636.88,191,60
+2025-11,Europe,partner,65486.82,528,156
+2025-11,Europe,events,70872.34,274,106
+2025-11,Europe,outbound,39918.65,155,38
+2025-11,APAC,paid-search,32227.25,257,52
+2025-11,APAC,content,41567.55,201,41
+2025-11,APAC,partner,49003.76,244,92
+2025-11,APAC,events,24004.93,144,44
+2025-11,APAC,outbound,23364.73,133,35
+2025-11,LATAM,paid-search,33136.11,142,30
+2025-11,LATAM,content,36605.18,236,63
+2025-11,LATAM,partner,19643.22,95,24
+2025-11,LATAM,events,54723.86,376,140
+2025-11,LATAM,outbound,21810.22,126,52
+2025-11,Middle East,paid-search,22253.55,97,31
+2025-11,Middle East,content,51734.94,411,163
+2025-11,Middle East,partner,15552.08,61,12
+2025-11,Middle East,events,26647.62,112,44
+2025-11,Middle East,outbound,30223.7,235,68
+2025-11,Africa,paid-search,52420.89,220,44
+2025-11,Africa,content,51865.44,253,58
+2025-11,Africa,partner,48618.16,195,55
+2025-11,Africa,events,17833.41,72,22
+2025-11,Africa,outbound,30100.72,164,68
+2025-12,North America,paid-search,26388.82,212,69
+2025-12,North America,content,50304.92,248,69
+2025-12,North America,partner,26059.75,112,46
+2025-12,North America,events,28169.8,121,45
+2025-12,North America,outbound,94649.66,524,210
+2025-12,Europe,paid-search,100638.63,415,88
+2025-12,Europe,content,69282.54,345,94
+2025-12,Europe,partner,27210.67,116,22
+2025-12,Europe,events,93399.37,414,137
+2025-12,Europe,outbound,80044.75,525,163
+2025-12,APAC,paid-search,19473.83,99,33
+2025-12,APAC,content,40466.82,287,88
+2025-12,APAC,partner,32816.63,158,51
+2025-12,APAC,events,39716.1,282,84
+2025-12,APAC,outbound,43601.94,193,67
+2025-12,LATAM,paid-search,30182.39,178,66
+2025-12,LATAM,content,35845.74,159,37
+2025-12,LATAM,partner,57776.8,361,121
+2025-12,LATAM,events,22162.18,125,29
+2025-12,LATAM,outbound,35846.46,245,82
+2025-12,Middle East,paid-search,51498.25,309,79
+2025-12,Middle East,content,61768.36,390,100
+2025-12,Middle East,partner,23094.65,115,42
+2025-12,Middle East,events,45782.35,181,36
+2025-12,Middle East,outbound,23490.84,101,32
+2025-12,Africa,paid-search,18003.42,146,38
+2025-12,Africa,content,43414.03,168,49
+2025-12,Africa,partner,31113.46,220,66
+2025-12,Africa,events,17407.02,104,29
+2025-12,Africa,outbound,58510.01,458,143

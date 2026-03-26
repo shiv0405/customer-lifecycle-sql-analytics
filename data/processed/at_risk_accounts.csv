@@ -1,0 +1,370 @@
+metric_month,account_id,account_name,region,segment,acquisition_channel,arr_usd,utilization_pct,feature_adoption_pct,support_tickets,csat_score,renewal_due_in_days,risk_score
+2025-12,ACC-1288,NO-Customer-289,North America,enterprise,outbound,482969.57,0.4357,0.6562,0,79.82,35,91.4
+2025-12,ACC-1264,NO-Customer-265,North America,enterprise,paid-search,626530.24,0.4068,0.6887,7,67.17,35,89.1
+2025-12,ACC-1348,NO-Customer-349,North America,enterprise,content,1354078.11,0.361,0.4275,8,66.09,65,88.6
+2025-12,ACC-1387,LA-Customer-388,LATAM,enterprise,content,901320.04,0.3865,0.7622,6,63.27,245,87.5
+2025-12,ACC-1132,NO-Customer-133,North America,enterprise,content,831059.83,0.4213,0.358,8,62.91,35,82.1
+2025-12,ACC-1246,NO-Customer-247,North America,enterprise,events,206633.8,0.438,0.2709,8,85.85,245,82.0
+2025-12,ACC-1003,LA-Customer-004,LATAM,enterprise,content,395909.52,0.4344,0.8364,3,90.82,335,75.7
+2025-12,ACC-1102,NO-Customer-103,North America,enterprise,content,1384426.1,0.3946,0.8439,5,86.14,65,75.2
+2025-12,ACC-1126,NO-Customer-127,North America,enterprise,paid-search,1455661.93,0.4744,0.6474,2,67.16,245,73.3
+2025-12,ACC-1159,LA-Customer-160,LATAM,enterprise,paid-search,700726.53,0.4647,0.3792,9,78.14,305,72.0
+2025-12,ACC-1171,LA-Customer-172,LATAM,enterprise,events,533080.61,0.476,0.4463,9,63.39,35,71.5
+2025-12,ACC-1039,LA-Customer-040,LATAM,enterprise,events,405143.02,0.427,0.7176,8,79.99,65,71.2
+2025-12,ACC-1354,NO-Customer-355,North America,enterprise,events,475466.67,0.4468,0.3665,12,75.34,125,70.7
+2025-12,ACC-1210,NO-Customer-211,North America,enterprise,outbound,303542.63,0.4437,0.733,1,85.57,35,70.3
+2025-12,ACC-1006,NO-Customer-007,North America,enterprise,outbound,215074.17,0.366,0.863,0,88.05,35,70.3
+2025-12,ACC-1372,NO-Customer-373,North America,enterprise,paid-search,716286.86,0.4051,0.3817,11,75.15,95,69.8
+2025-12,ACC-1084,NO-Customer-085,North America,enterprise,paid-search,540924.76,0.4281,0.7138,7,83.16,215,68.9
+2025-12,ACC-1015,LA-Customer-016,LATAM,enterprise,outbound,222497.62,0.4748,0.6694,8,74.04,185,68.4
+2025-12,ACC-1108,NO-Customer-109,North America,enterprise,paid-search,306796.37,0.3978,0.7127,6,71.05,185,67.3
+2025-12,ACC-1405,LA-Customer-406,LATAM,enterprise,content,622485.23,0.365,0.7166,6,79.48,245,65.3
+2025-12,ACC-1152,AP-Customer-153,APAC,commercial,partner,20649.32,0.32,0.4545,8,66.53,35,59.7
+2025-12,ACC-1345,LA-Customer-346,LATAM,enterprise,paid-search,408270.37,0.563,0.5556,5,88.79,215,57.6
+2025-12,ACC-1208,MI-Customer-209,Middle East,mid-market,partner,185879.46,0.4574,0.2831,8,61.28,35,56.5
+2025-12,ACC-1369,LA-Customer-370,LATAM,enterprise,outbound,356921.95,0.502,0.7265,3,70.73,215,56.4
+2025-12,ACC-1408,NO-Customer-409,North America,enterprise,content,241093.88,0.4291,0.6897,2,83.25,275,54.5
+2025-12,ACC-1094,MI-Customer-095,Middle East,mid-market,partner,394100.42,0.4943,0.3706,11,79.14,35,54.0
+2025-12,ACC-1075,LA-Customer-076,LATAM,enterprise,outbound,306270.26,0.3871,0.872,0,75.15,215,53.6
+2025-12,ACC-1030,NO-Customer-031,North America,enterprise,content,228009.41,0.5398,0.4145,3,79.08,95,53.6
+2025-12,ACC-1065,AF-Customer-066,Africa,commercial,content,70462.08,0.44,0.5227,6,63.87,65,52.6
+2025-12,ACC-1131,AF-Customer-132,Africa,commercial,events,31191.93,0.3939,0.2925,12,57.82,155,52.6
+2025-12,ACC-1069,LA-Customer-070,LATAM,enterprise,outbound,757308.44,0.3298,0.8597,0,84.24,185,51.8
+2025-12,ACC-1070,MI-Customer-071,Middle East,mid-market,paid-search,202995.47,0.396,0.4415,8,74.32,35,50.0
+2025-12,ACC-1144,NO-Customer-145,North America,enterprise,events,642443.19,0.3665,0.5347,3,81.63,155,49.1
+2025-12,ACC-1216,NO-Customer-217,North America,enterprise,partner,605851.95,0.6302,0.4466,10,72.82,185,49.0
+2025-12,ACC-1340,MI-Customer-341,Middle East,mid-market,outbound,97098.47,0.3824,0.7271,3,66.19,65,48.0
+2025-12,ACC-1412,MI-Customer-413,Middle East,mid-market,partner,148272.92,0.3604,0.4006,10,71.88,95,47.9
+2025-12,ACC-1020,AP-Customer-021,APAC,commercial,partner,21204.13,0.6923,0.3143,10,63.0,65,47.3
+2025-12,ACC-1072,NO-Customer-073,North America,enterprise,partner,1321701.89,0.512,0.5792,3,83.2,65,46.4
+2025-12,ACC-1153,LA-Customer-154,LATAM,enterprise,paid-search,688932.62,0.3808,0.6424,8,84.3,185,43.7
+2025-12,ACC-1009,LA-Customer-010,LATAM,enterprise,events,467229.48,0.6395,0.5304,6,80.88,185,43.6
+2025-12,ACC-1150,NO-Customer-151,North America,enterprise,paid-search,865145.7,0.6235,0.5121,2,68.87,245,42.9
+2025-12,ACC-1357,LA-Customer-358,LATAM,enterprise,partner,586428.04,0.4323,0.7609,0,92.75,155,42.8
+2025-12,ACC-1080,AP-Customer-081,APAC,commercial,content,100301.22,0.3939,0.3117,12,76.99,275,42.8
+2025-12,ACC-1156,NO-Customer-157,North America,enterprise,partner,727477.08,0.3811,0.4126,6,80.29,335,42.4
+2025-12,ACC-1189,LA-Customer-190,LATAM,enterprise,partner,663280.5,0.5872,0.4135,4,88.67,245,41.4
+2025-12,ACC-1317,AF-Customer-318,Africa,commercial,events,37326.72,0.3333,0.3587,10,65.29,305,41.4
+2025-12,ACC-1248,AP-Customer-249,APAC,commercial,paid-search,160018.02,0.3438,0.6814,5,85.12,35,40.5
+2025-12,ACC-1056,AP-Customer-057,APAC,commercial,outbound,48803.41,0.6429,0.4263,9,66.98,65,40.2
+2025-12,ACC-1267,LA-Customer-268,LATAM,enterprise,content,248222.86,0.7267,0.6299,8,65.85,65,39.8
+2025-12,ACC-1031,EU-Customer-032,Europe,mid-market,outbound,185764.43,0.3846,0.8004,3,70.01,155,38.9
+2025-12,ACC-1258,NO-Customer-259,North America,enterprise,content,1569873.26,0.3665,0.5316,5,70.7,125,38.5
+2025-12,ACC-1305,AF-Customer-306,Africa,commercial,paid-search,55635.09,0.4138,0.3833,6,71.15,65,38.4
+2025-12,ACC-1197,AF-Customer-198,Africa,commercial,outbound,77369.96,0.3333,0.5203,3,80.07,65,38.3
+2025-12,ACC-1191,AF-Customer-192,Africa,commercial,paid-search,80667.94,0.6774,0.2767,13,61.14,155,38.2
+2025-12,ACC-1396,NO-Customer-397,North America,enterprise,events,281420.77,0.5489,0.7302,5,73.91,275,37.4
+2025-12,ACC-1314,AP-Customer-315,APAC,commercial,outbound,228977.27,0.3793,0.3755,12,81.24,155,37.0
+2025-12,ACC-1199,EU-Customer-200,Europe,mid-market,outbound,701852.6,0.8037,0.3381,8,80.35,35,36.9
+2025-12,ACC-1054,NO-Customer-055,North America,enterprise,paid-search,281871.65,0.5431,0.8203,6,84.09,245,36.9
+2025-12,ACC-1129,LA-Customer-130,LATAM,enterprise,partner,950905.78,0.6272,0.7058,1,74.28,35,36.5
+2025-12,ACC-1178,MI-Customer-179,Middle East,mid-market,outbound,216538.85,0.4907,0.5999,9,79.81,335,36.5
+2025-12,ACC-1247,EU-Customer-248,Europe,mid-market,partner,145476.0,0.6,0.4433,10,83.94,65,36.0
+2025-12,ACC-1418,MI-Customer-419,Middle East,mid-market,outbound,141692.37,0.7711,0.3487,10,73.91,65,36.0
+2025-12,ACC-1185,AF-Customer-186,Africa,commercial,partner,29332.56,0.9063,0.5539,10,78.51,65,36.0
+2025-12,ACC-1001,EU-Customer-002,Europe,mid-market,outbound,264626.47,0.4545,0.7018,9,63.27,365,35.7
+2025-12,ACC-1280,MI-Customer-281,Middle East,mid-market,content,182726.83,0.4182,0.8099,1,85.82,215,35.6
+2025-12,ACC-1045,LA-Customer-046,LATAM,enterprise,events,1001166.51,0.6115,0.899,1,74.99,65,35.1
+2025-12,ACC-1022,MI-Customer-023,Middle East,mid-market,events,55533.91,0.8171,0.4646,8,70.41,65,34.3
+2025-12,ACC-1279,LA-Customer-280,LATAM,enterprise,paid-search,739888.5,0.6335,0.4322,9,74.76,65,34.2
+2025-12,ACC-1172,MI-Customer-173,Middle East,mid-market,events,115770.79,0.4023,0.8528,0,77.05,215,33.8
+2025-12,ACC-1308,AP-Customer-309,APAC,commercial,events,21302.63,0.64,0.393,10,59.38,245,33.1
+2025-12,ACC-1007,EU-Customer-008,Europe,mid-market,partner,219309.75,0.4045,0.362,6,73.68,125,32.5
+2025-12,ACC-1404,AP-Customer-405,APAC,commercial,events,17958.63,0.303,0.7625,8,84.42,275,32.5
+2025-12,ACC-1151,EU-Customer-152,Europe,mid-market,events,546638.27,0.68,0.7614,8,74.46,35,32.4
+2025-12,ACC-1415,EU-Customer-416,Europe,mid-market,paid-search,110916.12,0.6966,0.6998,8,72.29,35,32.4
+2025-12,ACC-1272,AP-Customer-273,APAC,commercial,events,73133.95,0.6129,0.4018,8,73.34,65,32.4
+2025-12,ACC-1028,MI-Customer-029,Middle East,mid-market,paid-search,233889.68,0.7714,0.2865,13,64.68,215,32.2
+2025-12,ACC-1384,NO-Customer-385,North America,enterprise,content,979788.69,0.6367,0.6195,6,64.77,65,32.1
+2025-12,ACC-1316,MI-Customer-317,Middle East,mid-market,outbound,55074.58,0.8523,0.43,12,66.62,365,32.1
+2025-12,ACC-1398,AP-Customer-399,APAC,commercial,partner,33623.29,0.4,0.7643,7,67.09,185,31.6
+2025-12,ACC-1401,AF-Customer-402,Africa,commercial,events,91092.74,0.9063,0.8996,6,65.22,35,31.5
+2025-12,ACC-1367,EU-Customer-368,Europe,mid-market,content,218618.06,0.6463,0.7184,3,82.57,35,31.1
+2025-12,ACC-1117,LA-Customer-118,LATAM,enterprise,outbound,701912.85,0.4678,0.5826,10,61.46,275,30.6
+2025-12,ACC-1284,AP-Customer-285,APAC,commercial,content,46662.29,0.9032,0.3653,6,66.27,65,30.3
+2025-12,ACC-1229,EU-Customer-230,Europe,mid-market,partner,145949.84,0.3407,0.8524,6,82.09,95,30.2
+2025-12,ACC-1198,NO-Customer-199,North America,enterprise,events,1753292.94,0.4556,0.3808,7,66.85,335,30.0
+2025-12,ACC-1392,AP-Customer-393,APAC,commercial,paid-search,33253.76,0.3226,0.6313,5,65.44,125,30.0
+2025-12,ACC-1196,MI-Customer-197,Middle East,mid-market,partner,390659.9,0.3945,0.5914,2,67.01,215,29.9
+2025-12,ACC-1060,NO-Customer-061,North America,enterprise,outbound,303454.8,0.8233,0.3575,12,65.52,125,29.4
+2025-12,ACC-1127,EU-Customer-128,Europe,mid-market,paid-search,744516.38,0.3889,0.3335,8,75.59,95,29.3
+2025-12,ACC-1014,AP-Customer-015,APAC,commercial,events,58070.25,0.3793,0.8388,2,66.49,125,29.2
+2025-12,ACC-1294,NO-Customer-295,North America,enterprise,events,946676.14,0.5804,0.5607,7,70.46,95,28.4
+2025-12,ACC-1339,LA-Customer-340,LATAM,enterprise,content,379889.04,0.4384,0.5074,8,76.33,215,28.4
+2025-12,ACC-1019,EU-Customer-020,Europe,mid-market,content,63987.14,0.3163,0.7453,5,76.81,305,28.4
+2025-12,ACC-1335,AF-Customer-336,Africa,commercial,content,57980.52,0.625,0.8305,5,67.06,65,28.4
+2025-12,ACC-1376,MI-Customer-377,Middle East,mid-market,partner,537258.75,0.4091,0.8151,4,84.26,155,27.9
+2025-12,ACC-1253,EU-Customer-254,Europe,mid-market,partner,202518.39,0.3372,0.4065,7,74.68,95,27.9
+2025-12,ACC-1325,EU-Customer-326,Europe,mid-market,events,263270.74,0.6238,0.8886,2,77.22,65,27.5
+2025-12,ACC-1397,EU-Customer-398,Europe,mid-market,partner,103001.58,0.4271,0.5081,1,88.83,215,27.5
+2025-12,ACC-1349,EU-Customer-350,Europe,mid-market,content,282076.43,0.7614,0.6164,3,68.07,65,27.2
+2025-12,ACC-1091,EU-Customer-092,Europe,mid-market,paid-search,115732.64,0.4476,0.8599,0,79.82,185,27.1
+2025-12,ACC-1170,AP-Customer-171,APAC,commercial,content,62893.66,0.4231,0.7258,7,78.83,95,27.1
+2025-12,ACC-1215,AF-Customer-216,Africa,commercial,content,75787.71,0.7813,0.3037,10,64.61,95,26.9
+2025-12,ACC-1381,LA-Customer-382,LATAM,enterprise,paid-search,648021.6,0.7469,0.5049,5,83.84,245,26.6
+2025-12,ACC-1406,MI-Customer-407,Middle East,mid-market,outbound,387283.01,0.8791,0.8835,0,85.26,65,26.6
+2025-12,ACC-1013,EU-Customer-014,Europe,mid-market,content,281298.31,0.8889,0.4404,10,64.84,245,26.6
+2025-12,ACC-1358,MI-Customer-359,Middle East,mid-market,outbound,155270.9,0.9012,0.5793,9,63.37,305,26.6
+2025-12,ACC-1064,MI-Customer-065,Middle East,mid-market,partner,82994.57,0.6071,0.6269,5,87.33,65,26.6
+2025-12,ACC-1395,AF-Customer-396,Africa,commercial,paid-search,124334.36,0.8,0.378,12,68.2,125,26.2
+2025-12,ACC-1416,AP-Customer-417,APAC,commercial,partner,45396.86,0.6333,0.296,9,63.7,365,26.2
+2025-12,ACC-1370,MI-Customer-371,Middle East,mid-market,outbound,283759.29,0.6396,0.5375,9,77.38,155,26.1
+2025-12,ACC-1149,AF-Customer-150,Africa,commercial,content,63589.5,0.4615,0.3915,11,66.86,215,26.0
+2025-12,ACC-1023,AF-Customer-024,Africa,commercial,outbound,46593.64,0.4242,0.7613,6,83.45,185,25.7
+2025-12,ACC-1141,LA-Customer-142,LATAM,enterprise,paid-search,898653.35,0.6794,0.6947,9,64.54,125,25.2
+2025-12,ACC-1333,LA-Customer-334,LATAM,enterprise,events,224053.89,0.8511,0.5235,2,91.93,35,25.2
+2025-12,ACC-1320,AP-Customer-321,APAC,commercial,partner,35459.95,0.6786,0.3884,8,63.02,215,25.2
+2025-12,ACC-1142,MI-Customer-143,Middle East,mid-market,paid-search,159762.46,0.3261,0.7907,5,68.95,95,24.9
+2025-12,ACC-1081,LA-Customer-082,LATAM,enterprise,outbound,1226524.94,0.6029,0.4526,5,77.02,155,24.8
+2025-12,ACC-1034,MI-Customer-035,Middle East,mid-market,partner,81522.59,0.8842,0.7228,3,73.42,65,24.8
+2025-12,ACC-1106,MI-Customer-107,Middle East,mid-market,events,254995.63,0.8444,0.4677,10,66.65,155,24.4
+2025-12,ACC-1096,NO-Customer-097,North America,enterprise,paid-search,3183377.2,0.6616,0.811,7,80.57,35,24.3
+2025-12,ACC-1120,NO-Customer-121,North America,enterprise,paid-search,884069.3,0.7611,0.3908,11,68.29,275,24.3
+2025-12,ACC-1025,EU-Customer-026,Europe,mid-market,paid-search,53334.37,0.8721,0.8816,7,78.67,65,24.3
+2025-12,ACC-1107,AF-Customer-108,Africa,commercial,outbound,95544.09,0.3462,0.6574,3,74.79,275,23.9
+2025-12,ACC-1296,AP-Customer-297,APAC,commercial,paid-search,82554.39,0.4138,0.4809,2,67.5,125,23.9
+2025-12,ACC-1083,AF-Customer-084,Africa,commercial,paid-search,54664.0,0.3548,0.5375,3,79.54,245,23.9
+2025-12,ACC-1292,MI-Customer-293,Middle East,mid-market,content,222789.47,0.6036,0.5572,9,65.91,95,23.5
+2025-12,ACC-1077,AF-Customer-078,Africa,commercial,events,19355.87,0.4,0.3181,4,73.32,185,23.5
+2025-12,ACC-1206,AP-Customer-207,APAC,commercial,content,301450.99,0.3871,0.5487,6,82.2,155,23.4
+2025-12,ACC-1310,MI-Customer-311,Middle East,mid-market,content,231722.93,0.5532,0.5142,9,72.97,215,23.4
+2025-12,ACC-1221,AF-Customer-222,Africa,commercial,events,33531.46,0.3846,0.4827,6,79.47,155,23.4
+2025-12,ACC-1383,AF-Customer-384,Africa,commercial,partner,32110.17,0.4194,0.7195,7,75.14,155,23.4
+2025-12,ACC-1290,AP-Customer-291,APAC,commercial,paid-search,27124.92,0.5517,0.879,6,83.43,65,23.4
+2025-12,ACC-1318,NO-Customer-319,North America,enterprise,partner,597229.87,0.8522,0.3915,9,66.3,245,23.0
+2025-12,ACC-1203,AF-Customer-204,Africa,commercial,content,58835.12,0.4231,0.6889,4,79.87,95,23.0
+2025-12,ACC-1066,NO-Customer-067,North America,enterprise,outbound,584929.94,0.3985,0.5384,5,68.58,245,22.6
+2025-12,ACC-1162,NO-Customer-163,North America,enterprise,partner,1288785.63,0.9022,0.4066,5,79.26,35,22.5
+2025-12,ACC-1135,LA-Customer-136,LATAM,enterprise,content,578379.1,0.7385,0.8129,5,72.97,65,22.5
+2025-12,ACC-1134,AP-Customer-135,APAC,commercial,partner,179054.21,0.5769,0.7453,0,74.49,35,22.1
+2025-12,ACC-1312,NO-Customer-313,North America,enterprise,paid-search,658250.96,0.6977,0.69,4,72.79,65,21.6
+2025-12,ACC-1079,EU-Customer-080,Europe,mid-market,paid-search,459091.62,0.4756,0.8121,2,72.26,35,21.6
+2025-12,ACC-1104,AP-Customer-105,APAC,commercial,events,105156.12,0.7308,0.8439,4,88.12,35,21.6
+2025-12,ACC-1133,EU-Customer-134,Europe,mid-market,paid-search,489653.72,0.9,0.4247,8,66.29,245,21.3
+2025-12,ACC-1227,AF-Customer-228,Africa,commercial,paid-search,32928.35,0.4815,0.4037,8,68.24,95,21.2
+2025-12,ACC-1287,AF-Customer-288,Africa,commercial,paid-search,122469.8,0.4815,0.6512,9,81.11,275,21.1
+2025-12,ACC-1115,EU-Customer-116,Europe,mid-market,outbound,123958.37,0.4273,0.4283,5,73.75,245,20.8
+2025-12,ACC-1092,AP-Customer-093,APAC,commercial,paid-search,74572.65,0.4194,0.5499,7,73.73,245,20.8
+2025-12,ACC-1087,LA-Customer-088,LATAM,enterprise,content,3260579.08,0.7066,0.6456,3,74.07,35,20.7
+2025-12,ACC-1234,NO-Customer-235,North America,enterprise,content,931173.89,0.5462,0.6232,3,80.73,65,20.7
+2025-12,ACC-1021,LA-Customer-022,LATAM,enterprise,outbound,588464.7,0.5399,0.3847,10,69.72,155,20.7
+2025-12,ACC-1388,MI-Customer-389,Middle East,mid-market,content,244636.73,0.8214,0.7691,3,86.02,65,20.7
+2025-12,ACC-1164,AP-Customer-165,APAC,commercial,partner,113349.94,0.6296,0.5873,9,78.75,125,20.7
+2025-12,ACC-1029,AF-Customer-030,Africa,commercial,outbound,94895.08,0.7059,0.633,3,85.13,35,20.7
+2025-12,ACC-1378,NO-Customer-379,North America,enterprise,outbound,895330.42,0.6755,0.5165,8,68.45,185,20.5
+2025-12,ACC-1232,MI-Customer-233,Middle East,mid-market,partner,215320.37,0.4607,0.3966,9,74.32,275,20.3
+2025-12,ACC-1100,MI-Customer-101,Middle East,mid-market,paid-search,135717.74,0.3761,0.455,7,83.86,245,20.3
+2025-12,ACC-1303,LA-Customer-304,LATAM,enterprise,outbound,337791.65,0.7063,0.4129,11,77.69,215,19.8
+2025-12,ACC-1041,AF-Customer-042,Africa,commercial,events,99145.43,0.72,0.8501,2,86.38,65,19.8
+2025-12,ACC-1192,NO-Customer-193,North America,enterprise,partner,932939.49,0.4612,0.446,10,82.89,275,19.4
+2025-12,ACC-1187,EU-Customer-188,Europe,mid-market,outbound,403222.16,0.5326,0.2891,7,75.01,305,19.4
+2025-12,ACC-1224,AP-Customer-225,APAC,commercial,partner,278707.35,0.4138,0.326,6,78.48,125,19.4
+2025-12,ACC-1005,AF-Customer-006,Africa,commercial,content,150145.8,0.3214,0.5413,5,82.36,95,19.4
+2025-12,ACC-1042,NO-Customer-043,North America,enterprise,partner,1879649.65,0.6852,0.4579,9,69.65,245,19.0
+2025-12,ACC-1231,LA-Customer-232,LATAM,enterprise,paid-search,816901.35,0.5819,0.31,8,68.19,95,19.0
+2025-12,ACC-1373,EU-Customer-374,Europe,mid-market,outbound,50784.38,0.7059,0.3418,9,71.55,245,19.0
+2025-12,ACC-1168,NO-Customer-169,North America,enterprise,events,738913.75,0.8903,0.6193,1,83.92,35,18.9
+2025-12,ACC-1343,EU-Customer-344,Europe,mid-market,paid-search,297839.05,0.3786,0.6955,5,75.07,365,18.9
+2025-12,ACC-1085,EU-Customer-086,Europe,mid-market,paid-search,167154.61,0.65,0.3458,10,72.46,275,18.9
+2025-12,ACC-1233,AF-Customer-234,Africa,commercial,outbound,94197.31,0.5926,0.3758,10,85.32,125,18.9
+2025-12,ACC-1043,EU-Customer-044,Europe,mid-market,outbound,63420.09,0.5773,0.5252,9,76.02,125,18.9
+2025-12,ACC-1250,MI-Customer-251,Middle East,mid-market,outbound,338512.97,0.6311,0.8344,7,65.84,245,18.6
+2025-12,ACC-1179,AF-Customer-180,Africa,commercial,content,56537.18,0.5,0.514,9,85.56,365,18.4
+2025-12,ACC-1059,AF-Customer-060,Africa,commercial,events,73929.62,0.4242,0.8063,4,86.88,245,18.1
+2025-12,ACC-1033,LA-Customer-034,LATAM,enterprise,partner,1564808.78,0.7857,0.38,10,72.74,305,18.0
+2025-12,ACC-1390,NO-Customer-391,North America,enterprise,content,1081013.62,0.8541,0.5512,10,72.72,95,18.0
+2025-12,ACC-1169,EU-Customer-170,Europe,mid-market,paid-search,879258.38,0.8526,0.5182,10,82.43,95,18.0
+2025-12,ACC-1255,LA-Customer-256,LATAM,enterprise,content,601224.56,0.56,0.4401,10,76.1,245,18.0
+2025-12,ACC-1411,LA-Customer-412,LATAM,enterprise,outbound,510969.79,0.8312,0.2759,10,84.23,185,18.0
+2025-12,ACC-1073,EU-Customer-074,Europe,mid-market,paid-search,196351.07,0.7204,0.4643,10,78.67,125,18.0
+2025-12,ACC-1119,AF-Customer-120,Africa,commercial,paid-search,151771.8,0.6667,0.6953,8,77.59,185,18.0
+2025-12,ACC-1182,AP-Customer-183,APAC,commercial,outbound,66600.42,0.5385,0.7867,8,77.17,185,18.0
+2025-12,ACC-1285,LA-Customer-286,LATAM,enterprise,outbound,297298.87,0.6654,0.4419,3,87.81,95,17.6
+2025-12,ACC-1301,EU-Customer-302,Europe,mid-market,outbound,40073.04,0.3604,0.3413,4,78.35,155,17.6
+2025-12,ACC-1239,AF-Customer-240,Africa,commercial,outbound,57573.81,0.6857,0.3131,7,62.81,245,17.3
+2025-12,ACC-1360,NO-Customer-361,North America,enterprise,partner,1180678.5,0.6613,0.5965,4,84.92,95,17.1
+2025-12,ACC-1356,AP-Customer-357,APAC,commercial,partner,40709.75,0.8,0.6666,8,71.61,245,17.1
+2025-12,ACC-1244,MI-Customer-245,Middle East,mid-market,events,217625.7,0.5577,0.7045,7,68.23,335,16.7
+2025-12,ACC-1032,AP-Customer-033,APAC,commercial,content,61569.79,0.3438,0.3497,3,87.38,275,16.7
+2025-12,ACC-1222,NO-Customer-223,North America,enterprise,partner,786245.87,0.887,0.3021,9,71.73,125,16.5
+2025-12,ACC-1089,AF-Customer-090,Africa,commercial,events,151964.64,0.4286,0.8296,2,76.74,275,16.3
+2025-12,ACC-1274,MI-Customer-275,Middle East,mid-market,events,140803.76,0.4364,0.6479,0,88.6,275,16.3
+2025-12,ACC-1228,NO-Customer-229,North America,enterprise,events,747190.39,0.7285,0.5962,9,80.17,275,16.2
+2025-12,ACC-1324,NO-Customer-325,North America,enterprise,events,470123.11,0.7028,0.472,9,85.94,275,16.2
+2025-12,ACC-1157,EU-Customer-158,Europe,mid-market,paid-search,278822.29,0.5204,0.8445,0,85.59,275,16.2
+2025-12,ACC-1140,AP-Customer-141,APAC,commercial,events,69440.25,0.6207,0.7042,9,84.28,185,16.2
+2025-12,ACC-1245,AF-Customer-246,Africa,commercial,content,28444.15,0.5385,0.4488,9,79.64,125,16.2
+2025-12,ACC-1047,AF-Customer-048,Africa,commercial,events,23939.31,0.4857,0.4821,6,63.21,155,15.9
+2025-12,ACC-1124,MI-Customer-125,Middle East,mid-market,content,326638.19,0.5586,0.684,1,89.01,95,15.8
+2025-12,ACC-1118,MI-Customer-119,Middle East,mid-market,content,304306.8,0.85,0.5019,6,63.31,155,15.8
+2025-12,ACC-1184,MI-Customer-185,Middle East,mid-market,partner,208907.61,0.4421,0.5478,2,73.49,215,15.8
+2025-12,ACC-1321,LA-Customer-322,LATAM,enterprise,content,2501607.39,0.7521,0.78,3,71.43,305,15.5
+2025-12,ACC-1209,AF-Customer-210,Africa,commercial,paid-search,116235.11,0.8182,0.6136,8,71.25,245,15.3
+2025-12,ACC-1026,AP-Customer-027,APAC,commercial,outbound,70608.96,0.4063,0.6223,0,72.4,245,15.3
+2025-12,ACC-1344,AP-Customer-345,APAC,commercial,paid-search,33452.49,0.8571,0.33,8,75.81,155,15.3
+2025-12,ACC-1213,LA-Customer-214,LATAM,enterprise,paid-search,2276592.39,0.779,0.6465,7,64.7,95,15.1
+2025-12,ACC-1254,AP-Customer-255,APAC,commercial,outbound,108379.26,0.4483,0.5982,1,74.5,365,14.9
+2025-12,ACC-1112,MI-Customer-113,Middle East,mid-market,events,142297.68,0.7561,0.72,8,85.49,245,14.8
+2025-12,ACC-1113,AF-Customer-114,Africa,commercial,outbound,104752.69,0.7273,0.8253,8,75.76,185,14.8
+2025-12,ACC-1330,NO-Customer-331,North America,enterprise,content,878489.61,0.8969,0.2946,8,84.74,95,14.4
+2025-12,ACC-1165,LA-Customer-166,LATAM,enterprise,paid-search,792857.95,0.7186,0.3487,8,73.6,215,14.4
+2025-12,ACC-1138,NO-Customer-139,North America,enterprise,paid-search,614157.41,0.704,0.3383,8,84.81,215,14.4
+2025-12,ACC-1103,EU-Customer-104,Europe,mid-market,partner,574296.45,0.4865,0.4355,8,75.23,335,14.4
+2025-12,ACC-1018,NO-Customer-019,North America,enterprise,content,449775.0,0.7251,0.6517,8,73.42,305,14.4
+2025-12,ACC-1281,AF-Customer-282,Africa,commercial,outbound,382313.96,0.6,0.653,8,75.35,125,14.4
+2025-12,ACC-1332,AP-Customer-333,APAC,commercial,content,76913.93,0.871,0.5683,8,79.42,215,14.4
+2025-12,ACC-1419,AF-Customer-420,Africa,commercial,content,56359.83,0.7813,0.6038,8,85.47,245,14.4
+2025-12,ACC-1350,AP-Customer-351,APAC,commercial,partner,21564.76,0.8387,0.7631,8,79.89,335,14.4
+2025-12,ACC-1177,LA-Customer-178,LATAM,enterprise,content,599005.77,0.6877,0.8261,7,65.46,245,14.1
+2025-12,ACC-1202,MI-Customer-203,Middle East,mid-market,paid-search,208949.78,0.8387,0.6631,5,64.65,185,13.3
+2025-12,ACC-1329,AF-Customer-330,Africa,commercial,content,50223.7,0.9032,0.9173,6,65.43,215,13.3
+2025-12,ACC-1190,MI-Customer-191,Middle East,mid-market,outbound,300939.85,0.5521,0.4135,3,66.73,305,13.1
+2025-12,ACC-1010,MI-Customer-011,Middle East,mid-market,outbound,120449.8,0.898,0.8383,7,67.08,215,13.1
+2025-12,ACC-1361,EU-Customer-362,Europe,mid-market,partner,83335.18,0.4909,0.7462,6,65.62,275,13.1
+2025-12,ACC-1328,MI-Customer-329,Middle East,mid-market,events,76810.34,0.7297,0.5072,5,64.84,275,13.1
+2025-12,ACC-1326,AP-Customer-327,APAC,commercial,content,63740.95,0.5294,0.6324,3,66.57,275,12.4
+2025-12,ACC-1323,AF-Customer-324,Africa,commercial,events,118018.22,0.8824,0.6163,5,65.58,245,12.2
+2025-12,ACC-1249,LA-Customer-250,LATAM,enterprise,content,1312691.21,0.6299,0.6326,3,84.33,185,11.7
+2025-12,ACC-1076,MI-Customer-077,Middle East,mid-market,events,120776.21,0.9048,0.6353,6,66.74,215,11.7
+2025-12,ACC-1017,AF-Customer-018,Africa,commercial,outbound,127941.23,0.5161,0.6224,4,71.07,155,11.5
+2025-12,ACC-1180,NO-Customer-181,North America,enterprise,content,348518.46,0.5667,0.3118,4,84.4,215,11.3
+2025-12,ACC-1052,MI-Customer-053,Middle East,mid-market,content,199459.54,0.596,0.7607,2,69.16,245,11.1
+2025-12,ACC-1359,AF-Customer-360,Africa,commercial,partner,74205.22,0.9412,0.7917,4,65.74,125,11.1
+2025-12,ACC-1315,LA-Customer-316,LATAM,enterprise,outbound,498816.36,0.7736,0.451,5,66.78,185,10.8
+2025-12,ACC-1130,MI-Customer-131,Middle East,mid-market,paid-search,167422.28,0.5238,0.8281,3,87.58,125,10.8
+2025-12,ACC-1207,LA-Customer-208,LATAM,enterprise,content,356003.13,0.5274,0.7138,1,83.61,365,10.4
+2025-12,ACC-1409,EU-Customer-410,Europe,mid-market,outbound,145012.56,0.5542,0.8844,1,82.56,245,10.4
+2025-12,ACC-1008,AP-Customer-009,APAC,commercial,content,44926.2,0.7857,0.8083,7,77.12,95,10.3
+2025-12,ACC-1143,AF-Customer-144,Africa,commercial,content,21874.85,0.5625,0.4703,2,67.65,125,10.2
+2025-12,ACC-1402,NO-Customer-403,North America,enterprise,events,465851.89,0.6169,0.6533,3,74.75,305,9.9
+2025-12,ACC-1277,EU-Customer-278,Europe,mid-market,paid-search,251490.68,0.8072,0.7896,7,69.02,245,9.9
+2025-12,ACC-1268,MI-Customer-269,Middle East,mid-market,events,121455.66,0.5568,0.4553,4,88.77,245,9.9
+2025-12,ACC-1338,AP-Customer-339,APAC,commercial,content,22866.58,0.7353,0.8427,5,68.15,95,9.1
+2025-12,ACC-1121,EU-Customer-122,Europe,mid-market,events,218247.47,0.7229,0.8857,0,82.32,275,9.0
+2025-12,ACC-1238,MI-Customer-239,Middle East,mid-market,content,97072.27,0.7531,0.8067,3,66.76,95,9.0
+2025-12,ACC-1389,AF-Customer-390,Africa,commercial,paid-search,68546.13,0.5556,0.7117,7,87.77,185,9.0
+2025-12,ACC-1176,AP-Customer-177,APAC,commercial,events,164727.03,0.5667,0.7009,4,67.93,305,8.5
+2025-12,ACC-1201,LA-Customer-202,LATAM,enterprise,outbound,408430.24,0.5516,0.5689,6,74.04,155,8.1
+2025-12,ACC-1175,EU-Customer-176,Europe,mid-market,events,163141.89,0.7339,0.7217,5,79.07,125,8.1
+2025-12,ACC-1282,NO-Customer-283,North America,enterprise,events,276703.91,0.7716,0.6013,6,69.99,245,7.8
+2025-12,ACC-1237,LA-Customer-238,LATAM,enterprise,content,997518.95,0.6049,0.8452,7,71.04,335,7.5
+2025-12,ACC-1000,NO-Customer-001,North America,enterprise,paid-search,473179.51,0.5175,0.7108,5,69.52,155,7.5
+2025-12,ACC-1211,EU-Customer-212,Europe,mid-market,partner,130885.12,0.8315,0.9128,0,69.13,185,7.5
+2025-12,ACC-1391,EU-Customer-392,Europe,mid-market,content,387465.16,0.8989,0.5154,7,87.25,215,7.2
+2025-12,ACC-1011,AF-Customer-012,Africa,commercial,partner,46302.17,0.4516,0.746,5,84.9,155,7.2
+2025-12,ACC-1086,AP-Customer-087,APAC,commercial,partner,43178.26,0.5,0.812,0,73.09,185,7.2
+2025-12,ACC-1413,AF-Customer-414,Africa,commercial,content,33494.3,0.4848,0.3914,4,75.88,245,7.2
+2025-12,ACC-1242,AP-Customer-243,APAC,commercial,partner,70892.36,0.4848,0.3118,3,68.43,275,7.0
+2025-12,ACC-1304,MI-Customer-305,Middle East,mid-market,partner,467559.79,0.8293,0.6224,7,79.58,245,6.8
+2025-12,ACC-1146,AP-Customer-147,APAC,commercial,paid-search,130537.58,0.6129,0.4568,4,83.51,335,6.8
+2025-12,ACC-1097,EU-Customer-098,Europe,mid-market,paid-search,120527.17,0.7426,0.3178,7,85.82,95,6.8
+2025-12,ACC-1037,EU-Customer-038,Europe,mid-market,outbound,58093.38,0.6706,0.6387,3,85.15,335,6.8
+2025-12,ACC-1002,AP-Customer-003,APAC,commercial,events,44051.55,0.8077,0.3713,6,89.09,245,6.8
+2025-12,ACC-1186,NO-Customer-187,North America,enterprise,events,853898.29,0.8261,0.8564,7,80.17,185,6.3
+2025-12,ACC-1223,EU-Customer-224,Europe,mid-market,outbound,225533.67,0.9111,0.5589,7,75.93,365,6.3
+2025-12,ACC-1163,EU-Customer-164,Europe,mid-market,outbound,176926.45,0.6667,0.7677,7,82.61,245,6.3
+2025-12,ACC-1311,AF-Customer-312,Africa,commercial,outbound,174067.85,0.7,0.4853,7,73.94,155,6.3
+2025-12,ACC-1158,AP-Customer-159,APAC,commercial,paid-search,106225.99,0.7857,0.4079,7,81.7,305,6.3
+2025-12,ACC-1341,AF-Customer-342,Africa,commercial,events,105001.51,0.5,0.3532,7,80.71,215,6.3
+2025-12,ACC-1347,AF-Customer-348,Africa,commercial,outbound,73802.28,0.7143,0.838,7,81.32,95,6.3
+2025-12,ACC-1161,AF-Customer-162,Africa,commercial,content,70389.79,0.5769,0.3238,4,80.47,185,6.3
+2025-12,ACC-1071,AF-Customer-072,Africa,commercial,events,45412.17,0.697,0.4215,7,87.37,275,6.3
+2025-12,ACC-1380,AP-Customer-381,APAC,commercial,content,38415.26,0.6765,0.5971,7,84.62,125,6.3
+2025-12,ACC-1088,MI-Customer-089,Middle East,mid-market,content,259280.71,0.5114,0.3069,4,69.86,215,6.2
+2025-12,ACC-1125,AF-Customer-126,Africa,commercial,content,36735.32,0.6,0.3888,6,72.49,335,5.9
+2025-12,ACC-1336,NO-Customer-337,North America,enterprise,events,970098.88,0.5694,0.5613,2,86.01,125,5.8
+2025-12,ACC-1111,LA-Customer-112,LATAM,enterprise,content,830320.42,0.7546,0.5719,4,70.23,335,5.7
+2025-12,ACC-1048,NO-Customer-049,North America,enterprise,partner,395032.71,0.8326,0.8344,0,69.51,95,5.7
+2025-12,ACC-1351,LA-Customer-352,LATAM,enterprise,content,1159146.41,0.9318,0.4133,6,84.9,95,5.4
+2025-12,ACC-1195,LA-Customer-196,LATAM,enterprise,events,786131.93,0.727,0.3626,6,75.27,185,5.4
+2025-12,ACC-1327,LA-Customer-328,LATAM,enterprise,paid-search,670534.12,0.54,0.4622,6,80.14,125,5.4
+2025-12,ACC-1399,LA-Customer-400,LATAM,enterprise,outbound,548603.0,0.7138,0.713,6,74.71,245,5.4
+2025-12,ACC-1004,MI-Customer-005,Middle East,mid-market,content,412086.32,0.53,0.3443,6,74.09,305,5.4
+2025-12,ACC-1261,LA-Customer-262,LATAM,enterprise,outbound,382335.5,0.8638,0.3302,6,86.6,155,5.4
+2025-12,ACC-1136,MI-Customer-137,Middle East,mid-market,content,330076.16,0.7396,0.3505,6,75.18,155,5.4
+2025-12,ACC-1219,LA-Customer-220,LATAM,enterprise,partner,314254.82,0.6992,0.4282,6,78.13,305,5.4
+2025-12,ACC-1016,MI-Customer-017,Middle East,mid-market,content,254971.48,0.8804,0.4557,2,69.01,95,5.4
+2025-12,ACC-1262,MI-Customer-263,Middle East,mid-market,outbound,127026.17,0.7955,0.2951,6,87.52,185,5.4
+2025-12,ACC-1266,AP-Customer-267,APAC,commercial,partner,111338.97,0.8077,0.7552,6,87.53,95,5.4
+2025-12,ACC-1098,AP-Customer-099,APAC,commercial,paid-search,69324.74,0.6471,0.6664,6,88.34,335,5.4
+2025-12,ACC-1319,EU-Customer-320,Europe,mid-market,paid-search,55932.7,0.6,0.7863,0,92.87,125,5.4
+2025-12,ACC-1394,MI-Customer-395,Middle East,mid-market,content,119475.14,0.7283,0.7506,5,77.61,95,5.0
+2025-12,ACC-1051,LA-Customer-052,LATAM,enterprise,events,1374956.93,0.8843,0.485,2,69.75,155,4.5
+2025-12,ACC-1342,NO-Customer-343,North America,enterprise,partner,691360.44,0.7953,0.5471,5,74.39,275,4.5
+2025-12,ACC-1322,MI-Customer-323,Middle East,mid-market,partner,646006.69,0.4945,0.4794,5,79.58,245,4.5
+2025-12,ACC-1040,MI-Customer-041,Middle East,mid-market,events,441991.95,0.7604,0.9043,5,88.89,365,4.5
+2025-12,ACC-1286,MI-Customer-287,Middle East,mid-market,partner,420740.16,0.5213,0.4002,5,85.82,335,4.5
+2025-12,ACC-1063,LA-Customer-064,LATAM,enterprise,content,290112.96,0.78,0.7831,5,83.74,185,4.5
+2025-12,ACC-1382,MI-Customer-383,Middle East,mid-market,paid-search,259825.1,0.6381,0.3359,5,83.84,185,4.5
+2025-12,ACC-1148,MI-Customer-149,Middle East,mid-market,partner,170601.19,0.6961,0.463,5,87.2,185,4.5
+2025-12,ACC-1379,EU-Customer-380,Europe,mid-market,paid-search,162346.01,0.7753,0.9,0,91.21,95,4.5
+2025-12,ACC-1235,EU-Customer-236,Europe,mid-market,events,137688.35,0.8868,0.8134,5,83.2,245,4.5
+2025-12,ACC-1193,EU-Customer-194,Europe,mid-market,paid-search,68669.12,0.7143,0.7517,5,76.69,155,4.5
+2025-12,ACC-1407,AF-Customer-408,Africa,commercial,partner,68209.51,0.7429,0.7506,5,80.04,215,4.5
+2025-12,ACC-1074,AP-Customer-075,APAC,commercial,partner,44498.77,0.6071,0.8494,0,85.92,125,4.5
+2025-12,ACC-1050,AP-Customer-051,APAC,commercial,content,33088.83,0.6923,0.7251,5,75.83,365,4.5
+2025-12,ACC-1297,LA-Customer-298,LATAM,enterprise,content,326108.7,0.8498,0.8842,3,70.62,305,4.4
+2025-12,ACC-1044,AP-Customer-045,APAC,commercial,events,54437.88,0.6923,0.9086,0,68.76,155,4.3
+2025-12,ACC-1306,NO-Customer-307,North America,enterprise,partner,448629.67,0.7054,0.8346,4,71.53,215,4.2
+2025-12,ACC-1139,EU-Customer-140,Europe,mid-market,partner,750576.27,0.7917,0.8011,0,90.85,245,4.0
+2025-12,ACC-1078,NO-Customer-079,North America,enterprise,content,693790.94,0.5364,0.3179,4,87.54,245,3.6
+2025-12,ACC-1160,MI-Customer-161,Middle East,mid-market,outbound,345196.43,0.5288,0.4509,3,88.19,125,3.6
+2025-12,ACC-1038,AP-Customer-039,APAC,commercial,paid-search,344780.72,0.6,0.3355,4,90.75,125,3.6
+2025-12,ACC-1289,EU-Customer-290,Europe,mid-market,events,215608.95,0.6606,0.7128,4,79.98,125,3.6
+2025-12,ACC-1256,MI-Customer-257,Middle East,mid-market,partner,141707.0,0.9358,0.8854,4,72.67,185,3.6
+2025-12,ACC-1374,AP-Customer-375,APAC,commercial,outbound,52396.96,0.8182,0.5381,4,77.9,155,3.6
+2025-12,ACC-1260,AP-Customer-261,APAC,commercial,content,49964.48,0.8148,0.6952,4,80.47,155,3.6
+2025-12,ACC-1095,AF-Customer-096,Africa,commercial,outbound,45321.18,0.5926,0.3313,4,74.55,215,3.6
+2025-12,ACC-1230,AP-Customer-231,APAC,commercial,partner,32200.54,0.8182,0.3699,2,85.49,95,3.6
+2025-12,ACC-1366,NO-Customer-367,North America,enterprise,partner,661932.58,0.8527,0.8758,3,71.39,125,3.4
+2025-12,ACC-1226,MI-Customer-227,Middle East,mid-market,events,117173.3,0.6634,0.6335,2,85.83,215,3.2
+2025-12,ACC-1371,AF-Customer-372,Africa,commercial,content,29512.19,0.5625,0.4925,3,82.4,185,3.2
+2025-12,ACC-1252,NO-Customer-253,North America,enterprise,partner,1332208.68,0.9233,0.7415,3,87.36,125,2.7
+2025-12,ACC-1240,NO-Customer-241,North America,enterprise,paid-search,640030.27,0.7393,0.4241,3,74.24,155,2.7
+2025-12,ACC-1012,NO-Customer-013,North America,enterprise,partner,616953.65,0.7263,0.9184,3,78.65,185,2.7
+2025-12,ACC-1300,NO-Customer-301,North America,enterprise,partner,513428.25,0.5621,0.5698,3,77.03,215,2.7
+2025-12,ACC-1090,NO-Customer-091,North America,enterprise,outbound,420867.93,0.8014,0.5255,3,85.13,335,2.7
+2025-12,ACC-1166,MI-Customer-167,Middle East,mid-market,events,201749.64,0.9059,0.5542,3,72.56,305,2.7
+2025-12,ACC-1214,MI-Customer-215,Middle East,mid-market,partner,188349.84,0.8627,0.6605,3,84.55,185,2.7
+2025-12,ACC-1417,LA-Customer-418,LATAM,enterprise,events,187009.57,0.7754,0.4985,3,75.36,275,2.7
+2025-12,ACC-1241,EU-Customer-242,Europe,mid-market,paid-search,181209.12,0.6566,0.731,0,83.81,185,2.7
+2025-12,ACC-1212,AP-Customer-213,APAC,commercial,events,64556.38,0.7879,0.3362,3,76.22,275,2.7
+2025-12,ACC-1218,AP-Customer-219,APAC,commercial,events,56573.69,0.7941,0.6572,2,85.61,95,2.7
+2025-12,ACC-1055,EU-Customer-056,Europe,mid-market,events,252445.53,0.7188,0.7433,0,69.85,155,2.6
+2025-12,ACC-1243,LA-Customer-244,LATAM,enterprise,paid-search,282565.97,0.7117,0.5899,2,71.45,155,2.5
+2025-12,ACC-1116,AP-Customer-117,APAC,commercial,partner,91019.53,0.4571,0.6674,2,75.69,95,2.3
+2025-12,ACC-1200,AP-Customer-201,APAC,commercial,content,60141.15,0.5,0.6195,1,76.98,125,2.3
+2025-12,ACC-1293,AF-Customer-294,Africa,commercial,partner,27493.42,0.8077,0.8463,0,82.77,155,2.3
+2025-12,ACC-1386,AP-Customer-387,APAC,commercial,paid-search,70550.36,0.5385,0.7957,2,71.78,125,2.1
+2025-12,ACC-1027,LA-Customer-028,LATAM,enterprise,partner,1111579.31,0.8687,0.7345,2,72.84,215,1.8
+2025-12,ACC-1414,NO-Customer-415,North America,enterprise,partner,430494.58,0.9181,0.4989,2,92.1,185,1.8
+2025-12,ACC-1363,LA-Customer-364,LATAM,enterprise,partner,343115.73,0.7127,0.5802,2,73.23,125,1.8
+2025-12,ACC-1346,MI-Customer-347,Middle East,mid-market,partner,273928.85,0.7642,0.6233,0,70.48,215,1.8
+2025-12,ACC-1217,EU-Customer-218,Europe,mid-market,content,251713.33,0.7547,0.8964,2,85.97,245,1.8
+2025-12,ACC-1307,EU-Customer-308,Europe,mid-market,events,219582.45,0.8452,0.4385,2,82.28,215,1.8
+2025-12,ACC-1181,EU-Customer-182,Europe,mid-market,events,177265.63,0.8073,0.4965,2,92.01,155,1.8
+2025-12,ACC-1220,MI-Customer-221,Middle East,mid-market,events,108442.76,0.663,0.4197,2,90.94,125,1.8
+2025-12,ACC-1352,MI-Customer-353,Middle East,mid-market,partner,95182.29,0.7596,0.6431,2,89.55,305,1.8
+2025-12,ACC-1368,AP-Customer-369,APAC,commercial,content,83083.07,0.5938,0.4335,2,76.02,95,1.8
+2025-12,ACC-1188,AP-Customer-189,APAC,commercial,outbound,63186.66,0.8529,0.4604,2,81.41,155,1.8
+2025-12,ACC-1155,AF-Customer-156,Africa,commercial,events,43928.11,0.7714,0.689,2,79.57,365,1.8
+2025-12,ACC-1236,AP-Customer-237,APAC,commercial,paid-search,27923.81,0.5882,0.4256,2,73.87,335,1.8
+2025-12,ACC-1271,EU-Customer-272,Europe,mid-market,paid-search,214846.01,0.59,0.693,1,79.3,155,1.4
+2025-12,ACC-1024,NO-Customer-025,North America,enterprise,partner,379978.01,0.8489,0.5284,1,93.49,125,0.9
+2025-12,ACC-1331,EU-Customer-332,Europe,mid-market,events,332448.24,0.8846,0.8901,1,89.43,185,0.9
+2025-12,ACC-1337,EU-Customer-338,Europe,mid-market,paid-search,258291.66,0.9333,0.4516,1,92.19,95,0.9
+2025-12,ACC-1068,AP-Customer-069,APAC,commercial,events,217740.78,0.5926,0.6178,1,91.51,95,0.9
+2025-12,ACC-1145,EU-Customer-146,Europe,mid-market,paid-search,207148.64,0.7426,0.8105,1,79.01,95,0.9
+2025-12,ACC-1049,EU-Customer-050,Europe,mid-market,partner,151812.24,0.578,0.6683,1,83.61,305,0.9
+2025-12,ACC-1299,AF-Customer-300,Africa,commercial,content,125165.06,0.8214,0.6049,1,72.66,215,0.9
+2025-12,ACC-1355,EU-Customer-356,Europe,mid-market,content,103430.13,0.7195,0.5261,1,87.73,245,0.9
+2025-12,ACC-1110,AP-Customer-111,APAC,commercial,partner,82534.31,0.7647,0.5461,1,75.81,155,0.9
+2025-12,ACC-1257,AF-Customer-258,Africa,commercial,events,33010.69,0.6552,0.7983,1,73.27,245,0.9
+2025-12,ACC-1302,AP-Customer-303,APAC,commercial,content,22398.17,0.7879,0.8647,1,75.37,185,0.9
+2025-12,ACC-1057,LA-Customer-058,LATAM,enterprise,content,1551239.44,0.6154,0.8046,0,83.96,245,0.0
+2025-12,ACC-1393,LA-Customer-394,LATAM,enterprise,partner,1504649.12,0.9217,0.8182,0,79.64,305,0.0
+2025-12,ACC-1270,NO-Customer-271,North America,enterprise,events,435389.6,0.711,0.8139,0,93.25,335,0.0
+2025-12,ACC-1298,MI-Customer-299,Middle East,mid-market,events,390512.62,0.8991,0.5725,0,91.82,305,0.0
+2025-12,ACC-1313,EU-Customer-314,Europe,mid-market,content,166261.15,0.6471,0.6929,0,74.89,185,0.0
+2025-12,ACC-1046,MI-Customer-047,Middle East,mid-market,partner,94699.35,0.6889,0.8643,0,88.97,185,0.0
+2025-12,ACC-1128,AP-Customer-129,APAC,commercial,partner,65560.74,0.8824,0.8322,0,90.66,155,0.0

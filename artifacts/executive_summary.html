@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Customer Lifecycle Analytics Warehouse</title>
+  <style>
+    body { margin: 0; font-family: "Segoe UI", sans-serif; background: #f5f7fb; color: #1d2733; }
+    .wrap { max-width: 1180px; margin: 0 auto; padding: 32px; }
+    .hero { background: linear-gradient(135deg, #0f4c75, #3282b8); color: white; padding: 28px; border-radius: 22px; }
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 20px; }
+    .card { background: white; border-radius: 18px; padding: 18px; box-shadow: 0 16px 36px rgba(18, 32, 51, 0.08); }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid #d7e0ea; }
+    h1, h2, h3 { margin-top: 0; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <h1>Customer Lifecycle Analytics Warehouse</h1>
+      <p>SQL-first view of customer retention, revenue movement, renewal exposure, and acquisition quality.</p>
+    </section>
+    <section class="grid">
+      <div class="card"><h3>Active Accounts</h3><strong>369</strong></div>
+      <div class="card"><h3>Current ARR</h3><strong>$132,886,345</strong></div>
+      <div class="card"><h3>Renewal Exposure</h3><strong>$28,153,823</strong></div>
+    </section>
+    <section class="card" style="margin-top: 24px;">
+      <h2>Regional Watchlist</h2>
+      <table>
+        <thead><tr><th>Region</th><th>ARR</th><th>Utilization</th><th>Renewal Exposure</th></tr></thead>
+        <tbody>
+          <tr><td>North America</td><td>$49,478,224</td><td>62.1%</td><td>$14,299,673</td></tr><tr><td>LATAM</td><td>$44,997,649</td><td>63.9%</td><td>$7,941,419</td></tr><tr><td>Europe</td><td>$14,540,747</td><td>63.9%</td><td>$2,781,274</td></tr><tr><td>Middle East</td><td>$14,372,279</td><td>65.1%</td><td>$1,873,737</td></tr><tr><td>APAC</td><td>$5,145,781</td><td>60.1%</td><td>$681,806</td></tr><tr><td>Africa</td><td>$4,351,664</td><td>59.3%</td><td>$575,913</td></tr>
+        </tbody>
+      </table>
+    </section>
+    <section class="card" style="margin-top: 24px;">
+      <h2>Segment Watchlist</h2>
+      <table>
+        <thead><tr><th>Segment</th><th>ARR</th><th>Utilization</th><th>Renewal Exposure</th><th>NRR Proxy</th></tr></thead>
+        <tbody>
+          <tr><td>enterprise</td><td>$94,475,873</td><td>63.0%</td><td>$22,241,092</td><td>104.2%</td></tr><tr><td>mid-market</td><td>$28,913,026</td><td>64.6%</td><td>$4,655,011</td><td>103.4%</td></tr><tr><td>commercial</td><td>$9,497,445</td><td>59.7%</td><td>$1,257,720</td><td>102.2%</td></tr>
+        </tbody>
+      </table>
+    </section>
+    <section class="card" style="margin-top: 24px;">
+      <h2>Highest Risk Accounts</h2>
+      <table>
+        <thead><tr><th>Account</th><th>Region</th><th>ARR</th><th>Risk Score</th><th>Renewal Due</th></tr></thead>
+        <tbody>
+          <tr><td>NO-Customer-289</td><td>North America</td><td>$482,970</td><td>91.4</td><td>35</td></tr><tr><td>NO-Customer-265</td><td>North America</td><td>$626,530</td><td>89.1</td><td>35</td></tr><tr><td>NO-Customer-349</td><td>North America</td><td>$1,354,078</td><td>88.6</td><td>65</td></tr><tr><td>LA-Customer-388</td><td>LATAM</td><td>$901,320</td><td>87.5</td><td>245</td></tr><tr><td>NO-Customer-133</td><td>North America</td><td>$831,060</td><td>82.1</td><td>35</td></tr><tr><td>NO-Customer-247</td><td>North America</td><td>$206,634</td><td>82.0</td><td>245</td></tr><tr><td>LA-Customer-004</td><td>LATAM</td><td>$395,910</td><td>75.7</td><td>335</td></tr><tr><td>NO-Customer-103</td><td>North America</td><td>$1,384,426</td><td>75.2</td><td>65</td></tr>
+        </tbody>
+      </table>
+    </section>
+  </div>
+</body>
+</html>

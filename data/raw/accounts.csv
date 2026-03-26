@@ -1,0 +1,421 @@
+account_id,account_name,region,segment,acquisition_channel,signup_date,initial_arr_usd
+ACC-1000,NO-Customer-001,North America,enterprise,paid-search,2025-05-01,306551.0
+ACC-1001,EU-Customer-002,Europe,mid-market,outbound,2024-12-01,135855.0
+ACC-1002,AP-Customer-003,APAC,commercial,events,2025-08-01,35068.0
+ACC-1003,LA-Customer-004,LATAM,enterprise,content,2024-11-01,460924.0
+ACC-1004,MI-Customer-005,Middle East,mid-market,content,2024-10-01,209222.0
+ACC-1005,AF-Customer-006,Africa,commercial,content,2024-03-01,53549.0
+ACC-1006,NO-Customer-007,North America,enterprise,outbound,2025-01-01,257281.0
+ACC-1007,EU-Customer-008,Europe,mid-market,partner,2024-04-01,170934.0
+ACC-1008,AP-Customer-009,APAC,commercial,content,2025-03-01,77958.0
+ACC-1009,LA-Customer-010,LATAM,enterprise,events,2024-06-01,606134.0
+ACC-1010,MI-Customer-011,Middle East,mid-market,outbound,2025-07-01,114349.0
+ACC-1011,AF-Customer-012,Africa,commercial,partner,2024-05-01,50329.0
+ACC-1012,NO-Customer-013,North America,enterprise,partner,2025-06-01,660320.0
+ACC-1013,EU-Customer-014,Europe,mid-market,content,2025-08-01,196360.0
+ACC-1014,AP-Customer-015,APAC,commercial,events,2025-04-01,76738.0
+ACC-1015,LA-Customer-016,LATAM,enterprise,outbound,2024-06-01,183006.0
+ACC-1016,MI-Customer-017,Middle East,mid-market,content,2025-03-01,178437.0
+ACC-1017,AF-Customer-018,Africa,commercial,outbound,2024-05-01,47441.0
+ACC-1018,NO-Customer-019,North America,enterprise,content,2024-10-01,359354.0
+ACC-1019,EU-Customer-020,Europe,mid-market,content,2024-10-01,80258.0
+ACC-1020,AP-Customer-021,APAC,commercial,partner,2025-02-01,22356.0
+ACC-1021,LA-Customer-022,LATAM,enterprise,outbound,2025-05-01,653150.0
+ACC-1022,MI-Customer-023,Middle East,mid-market,events,2025-02-01,79759.0
+ACC-1023,AF-Customer-024,Africa,commercial,outbound,2024-06-01,75873.0
+ACC-1024,NO-Customer-025,North America,enterprise,partner,2024-04-01,392638.0
+ACC-1025,EU-Customer-026,Europe,mid-market,paid-search,2025-02-01,62298.0
+ACC-1026,AP-Customer-027,APAC,commercial,outbound,2025-08-01,78879.0
+ACC-1027,LA-Customer-028,LATAM,enterprise,partner,2025-07-01,752173.0
+ACC-1028,MI-Customer-029,Middle East,mid-market,paid-search,2024-07-01,193468.0
+ACC-1029,AF-Customer-030,Africa,commercial,outbound,2024-01-01,74065.0
+ACC-1030,NO-Customer-031,North America,enterprise,content,2024-03-01,386656.0
+ACC-1031,EU-Customer-032,Europe,mid-market,outbound,2025-05-01,144778.0
+ACC-1032,AP-Customer-033,APAC,commercial,content,2024-09-01,60007.0
+ACC-1033,LA-Customer-034,LATAM,enterprise,partner,2024-10-01,709227.0
+ACC-1034,MI-Customer-035,Middle East,mid-market,partner,2024-02-01,100480.0
+ACC-1035,AF-Customer-036,Africa,commercial,events,2024-04-01,74919.0
+ACC-1036,NO-Customer-037,North America,enterprise,content,2024-09-01,669530.0
+ACC-1037,EU-Customer-038,Europe,mid-market,outbound,2024-11-01,109041.0
+ACC-1038,AP-Customer-039,APAC,commercial,paid-search,2024-04-01,45076.0
+ACC-1039,LA-Customer-040,LATAM,enterprise,events,2024-02-01,559418.0
+ACC-1040,MI-Customer-041,Middle East,mid-market,events,2024-12-01,215575.0
+ACC-1041,AF-Customer-042,Africa,commercial,events,2024-02-01,35974.0
+ACC-1042,NO-Customer-043,North America,enterprise,partner,2024-08-01,590888.0
+ACC-1043,EU-Customer-044,Europe,mid-market,outbound,2025-04-01,88016.0
+ACC-1044,AP-Customer-045,APAC,commercial,events,2025-05-01,56506.0
+ACC-1045,LA-Customer-046,LATAM,enterprise,events,2024-02-01,326867.0
+ACC-1046,MI-Customer-047,Middle East,mid-market,partner,2025-06-01,68722.0
+ACC-1047,AF-Customer-048,Africa,commercial,events,2024-05-01,25966.0
+ACC-1048,NO-Customer-049,North America,enterprise,partner,2025-03-01,314550.0
+ACC-1049,EU-Customer-050,Europe,mid-market,partner,2024-10-01,166330.0
+ACC-1050,AP-Customer-051,APAC,commercial,content,2024-12-01,33793.0
+ACC-1051,LA-Customer-052,LATAM,enterprise,events,2024-05-01,543251.0
+ACC-1052,MI-Customer-053,Middle East,mid-market,content,2024-08-01,177299.0
+ACC-1053,AF-Customer-054,Africa,commercial,paid-search,2024-02-01,26091.0
+ACC-1054,NO-Customer-055,North America,enterprise,paid-search,2025-08-01,246869.0
+ACC-1055,EU-Customer-056,Europe,mid-market,events,2025-05-01,188158.0
+ACC-1056,AP-Customer-057,APAC,commercial,outbound,2024-02-01,19733.0
+ACC-1057,LA-Customer-058,LATAM,enterprise,content,2024-08-01,504421.0
+ACC-1058,MI-Customer-059,Middle East,mid-market,events,2025-01-01,226191.0
+ACC-1059,AF-Customer-060,Africa,commercial,events,2024-08-01,30195.0
+ACC-1060,NO-Customer-061,North America,enterprise,outbound,2025-04-01,270168.0
+ACC-1061,EU-Customer-062,Europe,mid-market,outbound,2025-03-01,76875.0
+ACC-1062,AP-Customer-063,APAC,commercial,partner,2024-08-01,34277.0
+ACC-1063,LA-Customer-064,LATAM,enterprise,content,2024-06-01,725794.0
+ACC-1064,MI-Customer-065,Middle East,mid-market,partner,2025-02-01,96576.0
+ACC-1065,AF-Customer-066,Africa,commercial,content,2025-02-01,57967.0
+ACC-1066,NO-Customer-067,North America,enterprise,outbound,2025-08-01,528895.0
+ACC-1067,EU-Customer-068,Europe,mid-market,events,2024-03-01,139795.0
+ACC-1068,AP-Customer-069,APAC,commercial,events,2024-03-01,68789.0
+ACC-1069,LA-Customer-070,LATAM,enterprise,outbound,2025-06-01,660559.0
+ACC-1070,MI-Customer-071,Middle East,mid-market,paid-search,2025-01-01,141363.0
+ACC-1071,AF-Customer-072,Africa,commercial,events,2024-09-01,57911.0
+ACC-1072,NO-Customer-073,North America,enterprise,partner,2024-02-01,560454.0
+ACC-1073,EU-Customer-074,Europe,mid-market,paid-search,2025-04-01,126076.0
+ACC-1074,AP-Customer-075,APAC,commercial,partner,2024-04-01,69344.0
+ACC-1075,LA-Customer-076,LATAM,enterprise,outbound,2024-07-01,215994.0
+ACC-1076,MI-Customer-077,Middle East,mid-market,events,2025-07-01,142632.0
+ACC-1077,AF-Customer-078,Africa,commercial,events,2025-06-01,19645.0
+ACC-1078,NO-Customer-079,North America,enterprise,content,2024-08-01,807853.0
+ACC-1079,EU-Customer-080,Europe,mid-market,paid-search,2025-01-01,200152.0
+ACC-1080,AP-Customer-081,APAC,commercial,content,2024-09-01,60391.0
+ACC-1081,LA-Customer-082,LATAM,enterprise,outbound,2025-05-01,710133.0
+ACC-1082,MI-Customer-083,Middle East,mid-market,content,2024-03-01,198213.0
+ACC-1083,AF-Customer-084,Africa,commercial,paid-search,2025-08-01,52178.0
+ACC-1084,NO-Customer-085,North America,enterprise,paid-search,2025-07-01,382996.0
+ACC-1085,EU-Customer-086,Europe,mid-market,paid-search,2024-09-01,171583.0
+ACC-1086,AP-Customer-087,APAC,commercial,partner,2025-06-01,44548.0
+ACC-1087,LA-Customer-088,LATAM,enterprise,content,2024-01-01,776379.0
+ACC-1088,MI-Customer-089,Middle East,mid-market,content,2025-07-01,196419.0
+ACC-1089,AF-Customer-090,Africa,commercial,events,2024-09-01,67432.0
+ACC-1090,NO-Customer-091,North America,enterprise,outbound,2024-11-01,278686.0
+ACC-1091,EU-Customer-092,Europe,mid-market,paid-search,2025-06-01,99028.0
+ACC-1092,AP-Customer-093,APAC,commercial,paid-search,2025-08-01,76565.0
+ACC-1093,LA-Customer-094,LATAM,enterprise,events,2024-03-01,546414.0
+ACC-1094,MI-Customer-095,Middle East,mid-market,partner,2025-01-01,225451.0
+ACC-1095,AF-Customer-096,Africa,commercial,outbound,2025-07-01,27489.0
+ACC-1096,NO-Customer-097,North America,enterprise,paid-search,2024-01-01,685863.0
+ACC-1097,EU-Customer-098,Europe,mid-market,paid-search,2025-03-01,131943.0
+ACC-1098,AP-Customer-099,APAC,commercial,paid-search,2024-11-01,49961.0
+ACC-1099,LA-Customer-100,LATAM,enterprise,partner,2024-10-01,600330.0
+ACC-1100,MI-Customer-101,Middle East,mid-market,paid-search,2024-08-01,112938.0
+ACC-1101,AF-Customer-102,Africa,commercial,partner,2024-07-01,61871.0
+ACC-1102,NO-Customer-103,North America,enterprise,content,2024-02-01,486217.0
+ACC-1103,EU-Customer-104,Europe,mid-market,partner,2024-11-01,227591.0
+ACC-1104,AP-Customer-105,APAC,commercial,events,2025-01-01,49554.0
+ACC-1105,LA-Customer-106,LATAM,enterprise,paid-search,2024-03-01,793628.0
+ACC-1106,MI-Customer-107,Middle East,mid-market,events,2024-05-01,135555.0
+ACC-1107,AF-Customer-108,Africa,commercial,outbound,2024-09-01,50360.0
+ACC-1108,NO-Customer-109,North America,enterprise,paid-search,2024-06-01,523978.0
+ACC-1109,EU-Customer-110,Europe,mid-market,events,2024-02-01,181112.0
+ACC-1110,AP-Customer-111,APAC,commercial,partner,2025-05-01,79260.0
+ACC-1111,LA-Customer-112,LATAM,enterprise,content,2024-11-01,700949.0
+ACC-1112,MI-Customer-113,Middle East,mid-market,events,2025-08-01,115763.0
+ACC-1113,AF-Customer-114,Africa,commercial,outbound,2025-06-01,71993.0
+ACC-1114,NO-Customer-115,North America,enterprise,content,2024-11-01,365195.0
+ACC-1115,EU-Customer-116,Europe,mid-market,outbound,2024-08-01,233953.0
+ACC-1116,AP-Customer-117,APAC,commercial,partner,2025-03-01,76292.0
+ACC-1117,LA-Customer-118,LATAM,enterprise,outbound,2024-09-01,505563.0
+ACC-1118,MI-Customer-119,Middle East,mid-market,content,2024-05-01,196378.0
+ACC-1119,AF-Customer-120,Africa,commercial,paid-search,2024-06-01,46973.0
+ACC-1120,NO-Customer-121,North America,enterprise,paid-search,2024-09-01,551505.0
+ACC-1121,EU-Customer-122,Europe,mid-market,events,2024-09-01,232659.0
+ACC-1122,AP-Customer-123,APAC,commercial,content,2024-03-01,51144.0
+ACC-1123,LA-Customer-124,LATAM,enterprise,paid-search,2024-01-01,618722.0
+ACC-1124,MI-Customer-125,Middle East,mid-market,content,2025-03-01,183983.0
+ACC-1125,AF-Customer-126,Africa,commercial,content,2024-11-01,21747.0
+ACC-1126,NO-Customer-127,North America,enterprise,paid-search,2024-08-01,567964.0
+ACC-1127,EU-Customer-128,Europe,mid-market,paid-search,2024-03-01,179285.0
+ACC-1128,AP-Customer-129,APAC,commercial,partner,2024-05-01,76638.0
+ACC-1129,LA-Customer-130,LATAM,enterprise,partner,2025-01-01,635392.0
+ACC-1130,MI-Customer-131,Middle East,mid-market,paid-search,2024-04-01,89917.0
+ACC-1131,AF-Customer-132,Africa,commercial,events,2025-05-01,27406.0
+ACC-1132,NO-Customer-133,North America,enterprise,content,2025-01-01,737502.0
+ACC-1133,EU-Customer-134,Europe,mid-market,paid-search,2024-08-01,180336.0
+ACC-1134,AP-Customer-135,APAC,commercial,partner,2024-01-01,58933.0
+ACC-1135,LA-Customer-136,LATAM,enterprise,content,2025-02-01,613938.0
+ACC-1136,MI-Customer-137,Middle East,mid-market,content,2025-05-01,194145.0
+ACC-1137,AF-Customer-138,Africa,commercial,content,2024-07-01,52988.0
+ACC-1138,NO-Customer-139,North America,enterprise,paid-search,2025-07-01,541820.0
+ACC-1139,EU-Customer-140,Europe,mid-market,partner,2024-08-01,234538.0
+ACC-1140,AP-Customer-141,APAC,commercial,events,2025-06-01,70104.0
+ACC-1141,LA-Customer-142,LATAM,enterprise,paid-search,2025-04-01,641750.0
+ACC-1142,MI-Customer-143,Middle East,mid-market,paid-search,2025-03-01,222206.0
+ACC-1143,AF-Customer-144,Africa,commercial,content,2024-04-01,33975.0
+ACC-1144,NO-Customer-145,North America,enterprise,events,2024-05-01,566484.0
+ACC-1145,EU-Customer-146,Europe,mid-market,paid-search,2025-03-01,109113.0
+ACC-1146,AP-Customer-147,APAC,commercial,paid-search,2024-11-01,77652.0
+ACC-1147,LA-Customer-148,LATAM,enterprise,outbound,2024-04-01,417642.0
+ACC-1148,MI-Customer-149,Middle East,mid-market,partner,2025-06-01,151810.0
+ACC-1149,AF-Customer-150,Africa,commercial,content,2025-07-01,66713.0
+ACC-1150,NO-Customer-151,North America,enterprise,paid-search,2025-08-01,682785.0
+ACC-1151,EU-Customer-152,Europe,mid-market,events,2024-01-01,210322.0
+ACC-1152,AP-Customer-153,APAC,commercial,partner,2025-01-01,18347.0
+ACC-1153,LA-Customer-154,LATAM,enterprise,paid-search,2024-06-01,270950.0
+ACC-1154,MI-Customer-155,Middle East,mid-market,outbound,2024-12-01,214796.0
+ACC-1155,AF-Customer-156,Africa,commercial,events,2024-12-01,37474.0
+ACC-1156,NO-Customer-157,North America,enterprise,partner,2024-11-01,277042.0
+ACC-1157,EU-Customer-158,Europe,mid-market,paid-search,2024-09-01,88103.0
+ACC-1158,AP-Customer-159,APAC,commercial,paid-search,2024-10-01,34639.0
+ACC-1159,LA-Customer-160,LATAM,enterprise,paid-search,2024-10-01,297589.0
+ACC-1160,MI-Customer-161,Middle East,mid-market,outbound,2025-04-01,206249.0
+ACC-1161,AF-Customer-162,Africa,commercial,content,2025-06-01,50088.0
+ACC-1162,NO-Customer-163,North America,enterprise,partner,2024-01-01,810275.0
+ACC-1163,EU-Customer-164,Europe,mid-market,outbound,2025-08-01,167817.0
+ACC-1164,AP-Customer-165,APAC,commercial,partner,2024-04-01,79546.0
+ACC-1165,LA-Customer-166,LATAM,enterprise,paid-search,2024-07-01,748541.0
+ACC-1166,MI-Customer-167,Middle East,mid-market,events,2024-10-01,157617.0
+ACC-1167,AF-Customer-168,Africa,commercial,content,2024-10-01,31695.0
+ACC-1168,NO-Customer-169,North America,enterprise,events,2025-01-01,666206.0
+ACC-1169,EU-Customer-170,Europe,mid-market,paid-search,2024-03-01,219005.0
+ACC-1170,AP-Customer-171,APAC,commercial,content,2025-03-01,58261.0
+ACC-1171,LA-Customer-172,LATAM,enterprise,events,2024-01-01,612209.0
+ACC-1172,MI-Customer-173,Middle East,mid-market,events,2025-07-01,106189.0
+ACC-1173,AF-Customer-174,Africa,commercial,paid-search,2024-05-01,69918.0
+ACC-1174,NO-Customer-175,North America,enterprise,partner,2024-05-01,311529.0
+ACC-1175,EU-Customer-176,Europe,mid-market,events,2025-04-01,183962.0
+ACC-1176,AP-Customer-177,APAC,commercial,events,2024-10-01,62027.0
+ACC-1177,LA-Customer-178,LATAM,enterprise,content,2024-08-01,596748.0
+ACC-1178,MI-Customer-179,Middle East,mid-market,outbound,2024-11-01,144824.0
+ACC-1179,AF-Customer-180,Africa,commercial,content,2024-12-01,44687.0
+ACC-1180,NO-Customer-181,North America,enterprise,content,2025-07-01,294331.0
+ACC-1181,EU-Customer-182,Europe,mid-market,events,2024-05-01,143837.0
+ACC-1182,AP-Customer-183,APAC,commercial,outbound,2024-06-01,77265.0
+ACC-1183,LA-Customer-184,LATAM,enterprise,partner,2024-07-01,441189.0
+ACC-1184,MI-Customer-185,Middle East,mid-market,partner,2025-07-01,215525.0
+ACC-1185,AF-Customer-186,Africa,commercial,partner,2024-02-01,66005.0
+ACC-1186,NO-Customer-187,North America,enterprise,events,2025-06-01,784378.0
+ACC-1187,EU-Customer-188,Europe,mid-market,outbound,2024-10-01,190804.0
+ACC-1188,AP-Customer-189,APAC,commercial,outbound,2024-05-01,63548.0
+ACC-1189,LA-Customer-190,LATAM,enterprise,partner,2024-08-01,525733.0
+ACC-1190,MI-Customer-191,Middle East,mid-market,outbound,2024-10-01,150942.0
+ACC-1191,AF-Customer-192,Africa,commercial,paid-search,2024-05-01,35719.0
+ACC-1192,NO-Customer-193,North America,enterprise,partner,2024-09-01,745282.0
+ACC-1193,EU-Customer-194,Europe,mid-market,paid-search,2025-05-01,90098.0
+ACC-1194,AP-Customer-195,APAC,commercial,outbound,2024-07-01,53443.0
+ACC-1195,LA-Customer-196,LATAM,enterprise,events,2025-06-01,535721.0
+ACC-1196,MI-Customer-197,Middle East,mid-market,partner,2024-07-01,95710.0
+ACC-1197,AF-Customer-198,Africa,commercial,outbound,2025-02-01,61905.0
+ACC-1198,NO-Customer-199,North America,enterprise,events,2024-11-01,717194.0
+ACC-1199,EU-Customer-200,Europe,mid-market,outbound,2024-01-01,186554.0
+ACC-1200,AP-Customer-201,APAC,commercial,content,2025-04-01,29717.0
+ACC-1201,LA-Customer-202,LATAM,enterprise,outbound,2025-05-01,344266.0
+ACC-1202,MI-Customer-203,Middle East,mid-market,paid-search,2025-06-01,200817.0
+ACC-1203,AF-Customer-204,Africa,commercial,content,2025-03-01,77332.0
+ACC-1204,NO-Customer-205,North America,enterprise,paid-search,2024-05-01,502342.0
+ACC-1205,EU-Customer-206,Europe,mid-market,partner,2025-05-01,183941.0
+ACC-1206,AP-Customer-207,APAC,commercial,content,2024-05-01,72645.0
+ACC-1207,LA-Customer-208,LATAM,enterprise,content,2024-12-01,694867.0
+ACC-1208,MI-Customer-209,Middle East,mid-market,partner,2025-01-01,215482.0
+ACC-1209,AF-Customer-210,Africa,commercial,paid-search,2024-08-01,62807.0
+ACC-1210,NO-Customer-211,North America,enterprise,outbound,2025-01-01,370362.0
+ACC-1211,EU-Customer-212,Europe,mid-market,partner,2024-06-01,137038.0
+ACC-1212,AP-Customer-213,APAC,commercial,events,2024-09-01,62720.0
+ACC-1213,LA-Customer-214,LATAM,enterprise,paid-search,2024-03-01,734514.0
+ACC-1214,MI-Customer-215,Middle East,mid-market,partner,2024-06-01,193959.0
+ACC-1215,AF-Customer-216,Africa,commercial,content,2024-03-01,63579.0
+ACC-1216,NO-Customer-217,North America,enterprise,partner,2025-06-01,436585.0
+ACC-1217,EU-Customer-218,Europe,mid-market,content,2025-08-01,231783.0
+ACC-1218,AP-Customer-219,APAC,commercial,events,2024-03-01,36765.0
+ACC-1219,LA-Customer-220,LATAM,enterprise,partner,2024-10-01,224363.0
+ACC-1220,MI-Customer-221,Middle East,mid-market,events,2024-04-01,168499.0
+ACC-1221,AF-Customer-222,Africa,commercial,events,2025-05-01,25744.0
+ACC-1222,NO-Customer-223,North America,enterprise,partner,2025-04-01,478828.0
+ACC-1223,EU-Customer-224,Europe,mid-market,outbound,2024-12-01,175574.0
+ACC-1224,AP-Customer-225,APAC,commercial,partner,2024-04-01,58977.0
+ACC-1225,LA-Customer-226,LATAM,enterprise,content,2024-01-01,737625.0
+ACC-1226,MI-Customer-227,Middle East,mid-market,events,2024-07-01,88350.0
+ACC-1227,AF-Customer-228,Africa,commercial,paid-search,2025-03-01,22417.0
+ACC-1228,NO-Customer-229,North America,enterprise,events,2024-09-01,788824.0
+ACC-1229,EU-Customer-230,Europe,mid-market,partner,2024-03-01,78605.0
+ACC-1230,AP-Customer-231,APAC,commercial,partner,2025-03-01,28350.0
+ACC-1231,LA-Customer-232,LATAM,enterprise,paid-search,2025-03-01,393069.0
+ACC-1232,MI-Customer-233,Middle East,mid-market,partner,2024-09-01,155794.0
+ACC-1233,AF-Customer-234,Africa,commercial,outbound,2025-04-01,55423.0
+ACC-1234,NO-Customer-235,North America,enterprise,content,2025-02-01,776400.0
+ACC-1235,EU-Customer-236,Europe,mid-market,events,2025-08-01,158602.0
+ACC-1236,AP-Customer-237,APAC,commercial,paid-search,2024-11-01,25751.0
+ACC-1237,LA-Customer-238,LATAM,enterprise,content,2024-11-01,797516.0
+ACC-1238,MI-Customer-239,Middle East,mid-market,content,2025-03-01,94008.0
+ACC-1239,AF-Customer-240,Africa,commercial,outbound,2025-08-01,51312.0
+ACC-1240,NO-Customer-241,North America,enterprise,paid-search,2025-05-01,465164.0
+ACC-1241,EU-Customer-242,Europe,mid-market,paid-search,2025-06-01,135643.0
+ACC-1242,AP-Customer-243,APAC,commercial,partner,2024-09-01,48782.0
+ACC-1243,LA-Customer-244,LATAM,enterprise,paid-search,2024-05-01,493070.0
+ACC-1244,MI-Customer-245,Middle East,mid-market,events,2024-11-01,142067.0
+ACC-1245,AF-Customer-246,Africa,commercial,content,2025-04-01,51016.0
+ACC-1246,NO-Customer-247,North America,enterprise,events,2024-08-01,197118.0
+ACC-1247,EU-Customer-248,Europe,mid-market,partner,2025-02-01,73887.0
+ACC-1248,AP-Customer-249,APAC,commercial,paid-search,2024-01-01,75617.0
+ACC-1249,LA-Customer-250,LATAM,enterprise,content,2024-06-01,317348.0
+ACC-1250,MI-Customer-251,Middle East,mid-market,outbound,2024-08-01,142610.0
+ACC-1251,AF-Customer-252,Africa,commercial,paid-search,2024-05-01,56724.0
+ACC-1252,NO-Customer-253,North America,enterprise,partner,2025-04-01,701845.0
+ACC-1253,EU-Customer-254,Europe,mid-market,partner,2024-03-01,148280.0
+ACC-1254,AP-Customer-255,APAC,commercial,outbound,2024-12-01,55853.0
+ACC-1255,LA-Customer-256,LATAM,enterprise,content,2025-08-01,615403.0
+ACC-1256,MI-Customer-257,Middle East,mid-market,partner,2025-06-01,134169.0
+ACC-1257,AF-Customer-258,Africa,commercial,events,2025-08-01,33209.0
+ACC-1258,NO-Customer-259,North America,enterprise,content,2024-04-01,457089.0
+ACC-1259,EU-Customer-260,Europe,mid-market,paid-search,2024-06-01,225539.0
+ACC-1260,AP-Customer-261,APAC,commercial,content,2025-05-01,36006.0
+ACC-1261,LA-Customer-262,LATAM,enterprise,outbound,2024-05-01,356871.0
+ACC-1262,MI-Customer-263,Middle East,mid-market,outbound,2025-06-01,103630.0
+ACC-1263,AF-Customer-264,Africa,commercial,content,2024-11-01,51707.0
+ACC-1264,NO-Customer-265,North America,enterprise,paid-search,2025-01-01,519206.0
+ACC-1265,EU-Customer-266,Europe,mid-market,partner,2025-01-01,232708.0
+ACC-1266,AP-Customer-267,APAC,commercial,partner,2025-03-01,44293.0
+ACC-1267,LA-Customer-268,LATAM,enterprise,content,2025-02-01,207562.0
+ACC-1268,MI-Customer-269,Middle East,mid-market,events,2025-08-01,79579.0
+ACC-1269,AF-Customer-270,Africa,commercial,paid-search,2024-12-01,22175.0
+ACC-1270,NO-Customer-271,North America,enterprise,events,2024-11-01,290032.0
+ACC-1271,EU-Customer-272,Europe,mid-market,paid-search,2025-05-01,181336.0
+ACC-1272,AP-Customer-273,APAC,commercial,events,2025-02-01,49691.0
+ACC-1273,LA-Customer-274,LATAM,enterprise,outbound,2024-09-01,553387.0
+ACC-1274,MI-Customer-275,Middle East,mid-market,events,2024-09-01,135695.0
+ACC-1275,AF-Customer-276,Africa,commercial,events,2024-07-01,51551.0
+ACC-1276,NO-Customer-277,North America,enterprise,events,2024-10-01,292353.0
+ACC-1277,EU-Customer-278,Europe,mid-market,paid-search,2024-08-01,141406.0
+ACC-1278,AP-Customer-279,APAC,commercial,paid-search,2024-10-01,43407.0
+ACC-1279,LA-Customer-280,LATAM,enterprise,paid-search,2024-02-01,308491.0
+ACC-1280,MI-Customer-281,Middle East,mid-market,content,2025-07-01,143090.0
+ACC-1281,AF-Customer-282,Africa,commercial,outbound,2024-04-01,66879.0
+ACC-1282,NO-Customer-283,North America,enterprise,events,2025-08-01,245435.0
+ACC-1283,EU-Customer-284,Europe,mid-market,paid-search,2024-05-01,228415.0
+ACC-1284,AP-Customer-285,APAC,commercial,content,2025-02-01,25169.0
+ACC-1285,LA-Customer-286,LATAM,enterprise,outbound,2025-03-01,462621.0
+ACC-1286,MI-Customer-287,Middle East,mid-market,partner,2024-11-01,198651.0
+ACC-1287,AF-Customer-288,Africa,commercial,paid-search,2024-09-01,54986.0
+ACC-1288,NO-Customer-289,North America,enterprise,outbound,2025-01-01,482935.0
+ACC-1289,EU-Customer-290,Europe,mid-market,events,2025-04-01,183667.0
+ACC-1290,AP-Customer-291,APAC,commercial,paid-search,2025-02-01,19861.0
+ACC-1291,LA-Customer-292,LATAM,enterprise,outbound,2025-02-01,697986.0
+ACC-1292,MI-Customer-293,Middle East,mid-market,content,2024-03-01,211349.0
+ACC-1293,AF-Customer-294,Africa,commercial,partner,2025-05-01,20978.0
+ACC-1294,NO-Customer-295,North America,enterprise,events,2025-03-01,447994.0
+ACC-1295,EU-Customer-296,Europe,mid-market,content,2024-04-01,227951.0
+ACC-1296,AP-Customer-297,APAC,commercial,paid-search,2025-04-01,70696.0
+ACC-1297,LA-Customer-298,LATAM,enterprise,content,2024-10-01,372177.0
+ACC-1298,MI-Customer-299,Middle East,mid-market,events,2024-10-01,190648.0
+ACC-1299,AF-Customer-300,Africa,commercial,content,2024-07-01,51377.0
+ACC-1300,NO-Customer-301,North America,enterprise,partner,2025-07-01,635299.0
+ACC-1301,EU-Customer-302,Europe,mid-market,outbound,2024-05-01,60491.0
+ACC-1302,AP-Customer-303,APAC,commercial,content,2025-06-01,26686.0
+ACC-1303,LA-Customer-304,LATAM,enterprise,outbound,2025-07-01,362330.0
+ACC-1304,MI-Customer-305,Middle East,mid-market,partner,2024-08-01,174397.0
+ACC-1305,AF-Customer-306,Africa,commercial,paid-search,2025-02-01,59093.0
+ACC-1306,NO-Customer-307,North America,enterprise,partner,2025-07-01,326171.0
+ACC-1307,EU-Customer-308,Europe,mid-market,events,2025-07-01,231785.0
+ACC-1308,AP-Customer-309,APAC,commercial,events,2025-08-01,20945.0
+ACC-1309,LA-Customer-310,LATAM,enterprise,content,2024-09-01,792892.0
+ACC-1310,MI-Customer-311,Middle East,mid-market,content,2024-07-01,177772.0
+ACC-1311,AF-Customer-312,Africa,commercial,outbound,2024-05-01,50376.0
+ACC-1312,NO-Customer-313,North America,enterprise,paid-search,2025-02-01,559735.0
+ACC-1313,EU-Customer-314,Europe,mid-market,content,2025-06-01,102809.0
+ACC-1314,AP-Customer-315,APAC,commercial,outbound,2024-05-01,73447.0
+ACC-1315,LA-Customer-316,LATAM,enterprise,outbound,2025-06-01,518300.0
+ACC-1316,MI-Customer-317,Middle East,mid-market,outbound,2024-12-01,64999.0
+ACC-1317,AF-Customer-318,Africa,commercial,events,2024-10-01,67359.0
+ACC-1318,NO-Customer-319,North America,enterprise,partner,2024-08-01,381371.0
+ACC-1319,EU-Customer-320,Europe,mid-market,paid-search,2025-04-01,64345.0
+ACC-1320,AP-Customer-321,APAC,commercial,partner,2025-07-01,39126.0
+ACC-1321,LA-Customer-322,LATAM,enterprise,content,2024-10-01,783027.0
+ACC-1322,MI-Customer-323,Middle East,mid-market,partner,2024-08-01,161345.0
+ACC-1323,AF-Customer-324,Africa,commercial,events,2024-08-01,42151.0
+ACC-1324,NO-Customer-325,North America,enterprise,events,2024-09-01,482354.0
+ACC-1325,EU-Customer-326,Europe,mid-market,events,2025-02-01,210484.0
+ACC-1326,AP-Customer-327,APAC,commercial,content,2024-09-01,68324.0
+ACC-1327,LA-Customer-328,LATAM,enterprise,paid-search,2025-04-01,518716.0
+ACC-1328,MI-Customer-329,Middle East,mid-market,events,2024-09-01,66978.0
+ACC-1329,AF-Customer-330,Africa,commercial,content,2025-07-01,35241.0
+ACC-1330,NO-Customer-331,North America,enterprise,content,2025-03-01,503120.0
+ACC-1331,EU-Customer-332,Europe,mid-market,events,2024-06-01,234882.0
+ACC-1332,AP-Customer-333,APAC,commercial,content,2025-07-01,62738.0
+ACC-1333,LA-Customer-334,LATAM,enterprise,events,2025-01-01,355789.0
+ACC-1334,MI-Customer-335,Middle East,mid-market,events,2024-05-01,212529.0
+ACC-1335,AF-Customer-336,Africa,commercial,content,2025-02-01,76468.0
+ACC-1336,NO-Customer-337,North America,enterprise,events,2025-04-01,713392.0
+ACC-1337,EU-Customer-338,Europe,mid-market,paid-search,2025-03-01,167288.0
+ACC-1338,AP-Customer-339,APAC,commercial,content,2025-03-01,18031.0
+ACC-1339,LA-Customer-340,LATAM,enterprise,content,2025-07-01,261376.0
+ACC-1340,MI-Customer-341,Middle East,mid-market,outbound,2024-02-01,101560.0
+ACC-1341,AF-Customer-342,Africa,commercial,events,2024-07-01,46100.0
+ACC-1342,NO-Customer-343,North America,enterprise,partner,2024-09-01,579305.0
+ACC-1343,EU-Customer-344,Europe,mid-market,paid-search,2024-12-01,162961.0
+ACC-1344,AP-Customer-345,APAC,commercial,paid-search,2025-05-01,19757.0
+ACC-1345,LA-Customer-346,LATAM,enterprise,paid-search,2025-07-01,273095.0
+ACC-1346,MI-Customer-347,Middle East,mid-market,partner,2025-07-01,225632.0
+ACC-1347,AF-Customer-348,Africa,commercial,outbound,2025-03-01,76028.0
+ACC-1348,NO-Customer-349,North America,enterprise,content,2024-02-01,538319.0
+ACC-1349,EU-Customer-350,Europe,mid-market,content,2025-02-01,158663.0
+ACC-1350,AP-Customer-351,APAC,commercial,partner,2024-11-01,23659.0
+ACC-1351,LA-Customer-352,LATAM,enterprise,content,2025-03-01,628633.0
+ACC-1352,MI-Customer-353,Middle East,mid-market,partner,2024-10-01,82950.0
+ACC-1353,AF-Customer-354,Africa,commercial,content,2024-05-01,72868.0
+ACC-1354,NO-Customer-355,North America,enterprise,events,2025-04-01,692389.0
+ACC-1355,EU-Customer-356,Europe,mid-market,content,2024-08-01,131927.0
+ACC-1356,AP-Customer-357,APAC,commercial,partner,2025-08-01,50309.0
+ACC-1357,LA-Customer-358,LATAM,enterprise,partner,2024-05-01,345723.0
+ACC-1358,MI-Customer-359,Middle East,mid-market,outbound,2024-10-01,104954.0
+ACC-1359,AF-Customer-360,Africa,commercial,partner,2025-04-01,71241.0
+ACC-1360,NO-Customer-361,North America,enterprise,partner,2024-03-01,757227.0
+ACC-1361,EU-Customer-362,Europe,mid-market,partner,2024-09-01,80553.0
+ACC-1362,AP-Customer-363,APAC,commercial,outbound,2025-01-01,71374.0
+ACC-1363,LA-Customer-364,LATAM,enterprise,partner,2024-04-01,402991.0
+ACC-1364,MI-Customer-365,Middle East,mid-market,partner,2024-07-01,180880.0
+ACC-1365,AF-Customer-366,Africa,commercial,partner,2024-02-01,36676.0
+ACC-1366,NO-Customer-367,North America,enterprise,partner,2025-04-01,594736.0
+ACC-1367,EU-Customer-368,Europe,mid-market,content,2024-01-01,191795.0
+ACC-1368,AP-Customer-369,APAC,commercial,content,2025-03-01,74421.0
+ACC-1369,LA-Customer-370,LATAM,enterprise,outbound,2025-07-01,231050.0
+ACC-1370,MI-Customer-371,Middle East,mid-market,outbound,2024-05-01,201875.0
+ACC-1371,AF-Customer-372,Africa,commercial,content,2025-06-01,23121.0
+ACC-1372,NO-Customer-373,North America,enterprise,paid-search,2025-03-01,369039.0
+ACC-1373,EU-Customer-374,Europe,mid-market,outbound,2024-08-01,66311.0
+ACC-1374,AP-Customer-375,APAC,commercial,outbound,2025-05-01,75776.0
+ACC-1375,LA-Customer-376,LATAM,enterprise,content,2025-07-01,490972.0
+ACC-1376,MI-Customer-377,Middle East,mid-market,partner,2024-05-01,129439.0
+ACC-1377,AF-Customer-378,Africa,commercial,paid-search,2024-12-01,20063.0
+ACC-1378,NO-Customer-379,North America,enterprise,outbound,2025-06-01,735323.0
+ACC-1379,EU-Customer-380,Europe,mid-market,paid-search,2024-03-01,115908.0
+ACC-1380,AP-Customer-381,APAC,commercial,content,2025-04-01,41586.0
+ACC-1381,LA-Customer-382,LATAM,enterprise,paid-search,2024-08-01,499268.0
+ACC-1382,MI-Customer-383,Middle East,mid-market,paid-search,2024-06-01,71991.0
+ACC-1383,AF-Customer-384,Africa,commercial,partner,2025-05-01,28878.0
+ACC-1384,NO-Customer-385,North America,enterprise,content,2025-02-01,492197.0
+ACC-1385,EU-Customer-386,Europe,mid-market,paid-search,2024-07-01,164849.0
+ACC-1386,AP-Customer-387,APAC,commercial,paid-search,2025-04-01,62936.0
+ACC-1387,LA-Customer-388,LATAM,enterprise,content,2025-08-01,787723.0
+ACC-1388,MI-Customer-389,Middle East,mid-market,content,2025-02-01,205412.0
+ACC-1389,AF-Customer-390,Africa,commercial,paid-search,2024-06-01,58164.0
+ACC-1390,NO-Customer-391,North America,enterprise,content,2024-03-01,428662.0
+ACC-1391,EU-Customer-392,Europe,mid-market,content,2024-07-01,103992.0
+ACC-1392,AP-Customer-393,APAC,commercial,paid-search,2024-04-01,77187.0
+ACC-1393,LA-Customer-394,LATAM,enterprise,partner,2024-10-01,460032.0
+ACC-1394,MI-Customer-395,Middle East,mid-market,content,2025-03-01,108542.0
+ACC-1395,AF-Customer-396,Africa,commercial,paid-search,2024-04-01,67574.0
+ACC-1396,NO-Customer-397,North America,enterprise,events,2024-09-01,250411.0
+ACC-1397,EU-Customer-398,Europe,mid-market,partner,2025-07-01,81857.0
+ACC-1398,AP-Customer-399,APAC,commercial,partner,2024-06-01,39831.0
+ACC-1399,LA-Customer-400,LATAM,enterprise,outbound,2025-08-01,449060.0
+ACC-1400,MI-Customer-401,Middle East,mid-market,content,2024-05-01,74594.0
+ACC-1401,AF-Customer-402,Africa,commercial,events,2025-01-01,76548.0
+ACC-1402,NO-Customer-403,North America,enterprise,events,2024-10-01,634871.0
+ACC-1403,EU-Customer-404,Europe,mid-market,content,2024-03-01,178440.0
+ACC-1404,AP-Customer-405,APAC,commercial,events,2024-09-01,28437.0
+ACC-1405,LA-Customer-406,LATAM,enterprise,content,2024-08-01,799031.0
+ACC-1406,MI-Customer-407,Middle East,mid-market,outbound,2024-02-01,78857.0
+ACC-1407,AF-Customer-408,Africa,commercial,partner,2025-07-01,68534.0
+ACC-1408,NO-Customer-409,North America,enterprise,content,2024-09-01,331711.0
+ACC-1409,EU-Customer-410,Europe,mid-market,outbound,2025-08-01,156740.0
+ACC-1410,AP-Customer-411,APAC,commercial,outbound,2024-08-01,71168.0
+ACC-1411,LA-Customer-412,LATAM,enterprise,outbound,2024-06-01,325891.0
+ACC-1412,MI-Customer-413,Middle East,mid-market,partner,2025-03-01,181208.0
+ACC-1413,AF-Customer-414,Africa,commercial,content,2025-08-01,27842.0
+ACC-1414,NO-Customer-415,North America,enterprise,partner,2025-06-01,314361.0
+ACC-1415,EU-Customer-416,Europe,mid-market,paid-search,2025-01-01,110329.0
+ACC-1416,AP-Customer-417,APAC,commercial,partner,2024-12-01,27829.0
+ACC-1417,LA-Customer-418,LATAM,enterprise,events,2024-09-01,211980.0
+ACC-1418,MI-Customer-419,Middle East,mid-market,outbound,2025-02-01,142599.0
+ACC-1419,AF-Customer-420,Africa,commercial,content,2024-08-01,31947.0
