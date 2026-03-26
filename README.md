@@ -9,6 +9,12 @@ SQL-first analytics project designed to show how customer, revenue, retention, a
 - Produces analyst-ready outputs including curated CSVs, a metrics glossary, SQL query pack, written findings, and an HTML executive summary.
 - Emphasizes business reasoning, metric definitions, and explainable analysis instead of only showing code structure.
 
+## Visual Outputs
+
+![Customer lifecycle analytics overview](docs/images/overview.svg)
+
+![Customer lifecycle analytics highlights](docs/images/highlights.svg)
+
 ## Business Scenario
 
 This project models a subscription business that needs a repeatable way to answer four recurring questions:
