@@ -29,6 +29,4 @@
   <rect x="440" y="480" width="537.4" height="28" rx="14" fill="#0ea5e9"/>
   <text x="1078" y="502" fill="#1d4ed8" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">86.7%</text>
 
-  <rect x="74" y="646" width="1132" height="72" rx="24" fill="#ffffff" stroke="#dbeafe" stroke-width="1.5"/>
-  <text x="100" y="692" fill="#64748b" font-size="18" font-family="Segoe UI, Arial, sans-serif">Lower retention percentages show where deeper cohort investigation is needed across onboarding, pricing, or adoption patterns.</text>
 </svg>
